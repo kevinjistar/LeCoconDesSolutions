@@ -1,0 +1,2062 @@
+---
+Document: Registre_Central_Des_Capsules
+Version: 1.0.0
+Date: 2026-05-11
+
+Maintainers:
+  - Captain (authority)
+  - Chief_Structuration_Agent
+  - Copywriting_Agent
+  - Artistic_Lead_Agent
+  - Meta_Ads_Agent
+
+Document Role: Operational Capsule Register
+Update Policy: Human-authorized agent modification only
+Document Status: Active Reference
+Scope: Centralisation des idées de capsules, statuts, univers, douleurs client, promesses, angles, scoring, production, offres, coffrets, maillage interne, prochaines actions et apprentissages opérationnels du projet Le Cocon des Solutions
+Supersedes: None
+Dependencies:
+  - Protocole_Systeme_CoconDesSolutions
+  - Socle_Strategique_CoconDesSolutions
+  - Guide_Artistique_CoconDesSolutions
+  - Guide_Public_Cible_CoconDesSolutions
+---
+
+# Registre Central des Capsules
+
+## 1. Préambule
+
+Ce document centralise les idées, décisions opérationnelles et suivis liés aux **capsules numériques** du projet **Le Cocon des Solutions**.
+
+Il constitue le document vivant principal du projet pour tout ce qui concerne :
+- les idées de capsules ;
+- leur statut ;
+- leur univers ;
+- leur public cible ;
+- leur douleur centrale ;
+- leur promesse ;
+- leur structure ;
+- leur potentiel commercial ;
+- leur niveau de risque ;
+- leur production ;
+- leur prix ;
+- leur potentiel de coffret ;
+- leur maillage interne ;
+- leur prochaine action ;
+- leurs apprentissages après test.
+
+Ce registre ne remplace pas :
+- le protocole système ;
+- le socle stratégique ;
+- le guide artistique ;
+- le guide public cible.
+
+Il ne doit pas devenir un brouillon complet de rédaction, un guide de direction artistique ou un journal de production verbeux.
+
+Sa fonction est opérationnelle :
+
+**permettre de savoir quelles capsules existent, lesquelles méritent d’être travaillées, où elles en sont, pourquoi elles sont pertinentes et quelle est la prochaine action utile.**
+
+---
+
+## 2. Rôle exact du registre
+
+Le `Registre_Central_Des_Capsules` sert à piloter la production et la priorisation des capsules.
+
+Il doit permettre de répondre rapidement aux questions suivantes :
+
+1. Quelles idées de capsules existent ?
+2. Dans quel univers appartiennent-elles ?
+3. Quel problème traitent-elles ?
+4. Pour quel public ?
+5. Quelle douleur ou tension déclenche l’achat ?
+6. Quelle promesse porte la capsule ?
+7. Quel est son niveau de priorité ?
+8. Quel est son statut ?
+9. Quelle est sa structure prévue ?
+10. Quelle offre peut être construite autour d’elle ?
+11. Peut-elle entrer dans un coffret ?
+12. Quel est son niveau de risque de formulation ?
+13. Quelle est la prochaine action ?
+
+Le registre doit rester lisible et décisionnel.
+
+Une capsule ne doit pas y être documentée comme une idée vague, mais comme une unité potentielle d’offre.
+
+---
+
+## 3. Principe directeur
+
+Une capsule n’est pas un simple contenu.
+
+Une capsule est une **solution numérique courte**, construite autour de quatre éléments :
+
+1. un problème précis ;
+2. un public identifiable ;
+3. une promesse claire ;
+4. une prochaine action concrète pour l’acheteur.
+
+La valeur d’une capsule ne vient pas de sa longueur.  
+Elle vient de sa capacité à transformer un problème ou une tension en repère utile.
+
+Règle centrale :
+
+**chaque capsule doit être pensée comme une offre complète, pas comme un document isolé.**
+
+---
+
+## 4. Statuts autorisés
+
+Les statuts doivent rester simples, stables et utiles à la décision.
+
+## 4.1 Idée brute
+
+Idée non encore qualifiée.
+
+Elle peut être intéressante, mais aucun travail réel de validation n’a encore été fait.
+
+## 4.2 À qualifier
+
+Idée qui mérite une première analyse.
+
+La douleur, le public, la promesse ou le potentiel commercial doivent encore être clarifiés.
+
+## 4.3 Hypothèse active
+
+Idée jugée suffisamment prometteuse pour entrer dans la pile de travail.
+
+Elle n’est pas encore validée, mais elle mérite un scoring sérieux ou un brief.
+
+## 4.4 Brief en cours
+
+La capsule est en phase de structuration.
+
+À ce stade, le travail porte sur :
+- le titre ;
+- la promesse ;
+- la douleur ;
+- le public cible ;
+- la structure ;
+- les livrables internes ;
+- les limites de formulation.
+
+## 4.5 En production Claude
+
+La rédaction assistée par Claude AI est en cours à partir d’un brief validé.
+
+## 4.6 En design Canva
+
+La capsule est en phase de mise en page, couverture, mockups ou supports visuels.
+
+## 4.7 Prêt à lancer
+
+Le contenu, le design, la page Shopify et l’offre sont prêts pour lancement ou pré-test.
+
+## 4.8 En test marché
+
+La capsule est testée via trafic organique, influenceur, Meta Ads, email ou autre canal.
+
+## 4.9 Validé
+
+La capsule a obtenu des signaux commerciaux ou qualitatifs suffisants pour être conservée comme actif du catalogue.
+
+## 4.10 À optimiser
+
+La capsule montre un potentiel, mais un ou plusieurs éléments doivent être retravaillés.
+
+Exemples :
+- titre ;
+- couverture ;
+- prix ;
+- promesse ;
+- page Shopify ;
+- angle publicitaire ;
+- structure interne.
+
+## 4.11 Abandonné
+
+La capsule est écartée.
+
+Raisons possibles :
+- douleur trop faible ;
+- promesse trop difficile à formuler ;
+- risque de claim trop élevé ;
+- incohérence avec la marque ;
+- faible potentiel commercial ;
+- production trop complexe ;
+- signaux de test insuffisants.
+
+---
+
+## 5. Univers autorisés à ce stade
+
+## 5.1 Univers alpha
+
+### Parentalité
+
+Univers prioritaire.
+
+Angles compatibles :
+- émotions de l’enfant ;
+- routines ;
+- écrans ;
+- charge mentale parentale ;
+- opposition ;
+- autonomie ;
+- organisation familiale ;
+- maison apaisée ;
+- hypersensibilité ;
+- outils visuels.
+
+Règle de formulation :
+- rassurer sans culpabiliser ;
+- proposer sans promettre une transformation totale ;
+- éviter toute posture médicale ou thérapeutique excessive.
+
+---
+
+## 5.2 Univers bêta
+
+### Ésotérisme doux
+
+Univers secondaire, à activer avec prudence.
+
+Angles compatibles :
+- introspection ;
+- rituels ;
+- journaling symbolique ;
+- cartes de réflexion ;
+- cycles personnels ;
+- archétypes ;
+- intuition.
+
+Règle de formulation :
+- rester symbolique, introspectif et doux ;
+- éviter les promesses surnaturelles agressives ;
+- ne pas présenter l’invérifiable comme certitude.
+
+---
+
+## 5.3 Univers futurs possibles
+
+Ces univers sont compatibles, mais non prioritaires tant qu’une première traction n’existe pas :
+
+- Organisation ;
+- Émotions ;
+- Relations ;
+- Maison apaisée ;
+- Charge mentale ;
+- Routines ;
+- Clarté personnelle.
+
+Un univers futur ne doit être ouvert que s’il :
+- renforce le catalogue ;
+- permet des coffrets cohérents ;
+- répond à une douleur claire ;
+- ne fragmente pas l’identité de marque.
+
+---
+
+## 6. Structure obligatoire d’une fiche capsule
+
+Chaque fiche capsule doit suivre une structure stable.
+
+## 6.1 Bloc d’identification
+
+Chaque fiche doit contenir :
+
+- ID capsule ;
+- nom de travail ;
+- titre commercial pressenti ;
+- univers ;
+- statut ;
+- responsable principal ;
+- contributeurs ;
+- date de création ;
+- dernière mise à jour.
+
+## 6.2 Bloc stratégique
+
+Chaque fiche doit préciser :
+
+- problème traité ;
+- public cible ;
+- situation d’achat ;
+- douleur principale ;
+- désir principal ;
+- objection principale ;
+- angle émotionnel ;
+- promesse ;
+- bénéfice immédiat ;
+- bénéfice secondaire ;
+- niveau de prudence requis.
+
+## 6.3 Bloc scoring
+
+Chaque fiche doit être évaluée selon la méthode définie en section 7.
+
+Le bloc scoring doit distinguer :
+- les filtres d’entrée ;
+- le score principal sur 100 ;
+- le coefficient de prudence ;
+- le score final ;
+- la décision opérationnelle.
+
+Cette distinction évite de valider trop facilement des idées déjà préqualifiées commercialement par des outils externes comme PDFTrend.
+
+## 6.4 Bloc offre
+
+Chaque fiche doit préciser :
+
+- format prévu ;
+- longueur estimée ;
+- livrables internes ;
+- prix envisagé ;
+- potentiel de coffret ;
+- maillage interne possible ;
+- upsell ou cross-sell possible ;
+- niveau de priorité commerciale.
+
+Lorsque la capsule prévoit un maillage interne, le bloc offre doit aussi préciser :
+- les capsules associées pressenties ;
+- le rôle de chaque association ;
+- le lien cible prévu si disponible ;
+- le type de CTA doux à utiliser ;
+- si la carte de recommandation doit être cliquable dans le PDF final.
+
+## 6.5 Bloc production
+
+Chaque fiche doit préciser :
+
+- structure prévue ;
+- brief Claude ;
+- éléments visuels nécessaires ;
+- couverture ;
+- mockups ;
+- page Shopify ;
+- email ou séquence post-achat ;
+- état de production.
+
+Le bloc production doit aussi vérifier les règles de mise en page suivantes :
+- variation suffisante des illustrations ;
+- absence de répétition excessive d’une même scène ou d’un même personnage ;
+- priorité à la lisibilité du texte sur les pages denses ;
+- présence éventuelle de cartes de maillage cliquables ;
+- présence éventuelle d’un QR Code final ;
+- présence du site officiel et de la phrase de marque en dernière page.
+
+## 6.6 Bloc test et apprentissages
+
+À utiliser seulement lorsqu’un test existe.
+
+Il peut contenir :
+- canal testé ;
+- audience ;
+- angle publicitaire ;
+- créative ;
+- métriques clés ;
+- apprentissage ;
+- décision issue du test.
+
+## 6.7 Bloc prochaine action
+
+Chaque fiche active doit contenir une prochaine action claire.
+
+Une action vague du type “à revoir” ou “à travailler plus tard” est insuffisante.
+
+Une action correcte doit préciser :
+- ce qui doit être fait ;
+- par quel agent ;
+- dans quel but ;
+- avec quel critère de sortie.
+
+---
+
+## 7. Scoring des capsules
+
+Le scoring sert à prioriser les capsules sans dépendre uniquement de l’intuition.
+
+La grille historique en 10 critères notés de 1 à 5 est remplacée par une méthode plus discriminante, adaptée aux idées issues de PDFTrend ou d’autres outils de génération d’opportunités.
+
+PDFTrend fournit souvent des idées déjà préqualifiées en apparence : titre attractif, audience, douleur, promesse, niveau d’intérêt, concurrence, tendance, volume de recherche et opportunity score.
+
+Le registre ne doit donc pas simplement vérifier si une idée “a du potentiel”. Il doit mesurer sa convertibilité réelle en capsule vendable, concrète, prudente et testable.
+
+La méthode se compose de trois niveaux :
+
+1. filtres d’entrée ;
+2. score principal sur 100 ;
+3. coefficient de prudence.
+
+---
+
+## 7.1 Filtres d’entrée
+
+Les filtres d’entrée servent à déterminer si une idée mérite d’être scorée.
+
+Ils ne donnent pas de points forts. Ils permettent seulement de rendre l’idée éligible à l’analyse.
+
+Une idée doit passer les filtres suivants :
+
+1. univers compatible ;
+2. problème compréhensible ;
+3. public identifiable ;
+4. format capsule plausible ;
+5. cohérence de marque minimale.
+
+Si une idée échoue sur un de ces filtres, elle reste au statut “Idée brute” ou “À qualifier”.
+
+Si elle les passe, elle peut être scorée.
+
+Ces filtres remplacent partiellement les anciens critères suivants : clarté du problème, cohérence de marque, public cible clair et potentiel de format.
+
+---
+
+## 7.2 Score principal
+
+Le score principal est calculé sur 100 points.
+
+Il sert à comparer les idées entre elles, en particulier lorsque plusieurs suggestions externes semblent toutes intéressantes.
+
+## 7.2.1 Tension commerciale réelle, 20 points
+
+Mesure si la capsule répond à une douleur urgente, fréquente ou fortement ressentie.
+
+Question centrale :
+
+**Le public ressent-il ce problème assez fortement pour acheter une capsule maintenant ?**
+
+0 à 5 = sujet intéressant mais douleur faible ;
+6 à 10 = douleur réelle mais peu urgente ;
+11 à 15 = douleur claire, régulière, commercialement exploitable ;
+16 à 20 = douleur forte, fréquente, émotionnellement chargée et activable.
+
+## 7.2.2 Désir actif de solution, 15 points
+
+Mesure la probabilité que le public cherche déjà une réponse concrète.
+
+Question centrale :
+
+**Le public est-il déjà en recherche de solution, ou faut-il d’abord créer le besoin ?**
+
+0 à 4 = curiosité faible ;
+5 à 8 = intérêt latent ;
+9 à 12 = recherche probable ;
+13 à 15 = besoin actif et identifiable.
+
+## 7.2.3 Capsulabilité concrète, 15 points
+
+Mesure la capacité à transformer l’idée en solution courte, utile et directement applicable.
+
+Question centrale :
+
+**Peut-on produire autre chose qu’un simple contenu explicatif ?**
+
+Une bonne capsulabilité implique des livrables internes concrets :
+- fiches ;
+- cartes ;
+- scripts ;
+- routines ;
+- checklists ;
+- plans d’action ;
+- tableaux de suivi ;
+- rituels ;
+- modèles imprimables.
+
+0 à 4 = idée surtout théorique ;
+5 à 8 = quelques livrables possibles ;
+9 à 12 = capsule actionnable ;
+13 à 15 = forte densité d’outils concrets.
+
+## 7.2.4 Promesse attractive mais maîtrisable, 15 points
+
+Mesure la capacité à garder une promesse vendeuse sans créer une promesse excessive, médicale, thérapeutique, culpabilisante ou garantie.
+
+Question centrale :
+
+**Peut-on vendre fortement sans promettre trop ?**
+
+La règle applicable est :
+
+**titre vendeur, promesse verrouillée.**
+
+Un titre peut utiliser une tension commerciale forte si le sous-titre, la page produit et le contenu cadrent immédiatement la promesse réelle.
+
+0 à 4 = promesse trop faible ou trop risquée ;
+5 à 8 = promesse vendable mais fragile ;
+9 à 12 = promesse attractive avec cadrage possible ;
+13 à 15 = promesse forte, claire, désirable et maîtrisée.
+
+## 7.2.5 Potentiel publicitaire direct, 10 points
+
+Mesure la capacité à créer des hooks Meta Ads, UGC ou angles organiques simples et non culpabilisants.
+
+Question centrale :
+
+**Peut-on écrire rapidement plusieurs accroches publicitaires claires sans forcer l’angle ?**
+
+0 à 3 = angle faible ;
+4 à 6 = angle exploitable mais peu immédiat ;
+7 à 8 = bon potentiel publicitaire ;
+9 à 10 = angle évident, direct et activable.
+
+## 7.2.6 Facilité de lancement, 10 points
+
+Mesure la facilité à produire une version test propre avec les ressources actuelles.
+
+Question centrale :
+
+**Peut-on lancer une première version utile sans complexité excessive ?**
+
+0 à 3 = sujet lourd, expert, difficile ou risqué ;
+4 à 6 = production possible mais exigeante ;
+7 à 8 = production réaliste ;
+9 à 10 = production simple, rapide et propre.
+
+## 7.2.7 Différenciation réelle, 10 points
+
+Mesure la capacité de l’idée à se distinguer des contenus gratuits, des tendances saturées ou des promesses génériques.
+
+Question centrale :
+
+**Pourquoi cette capsule serait-elle choisie plutôt qu’un contenu gratuit ou une autre capsule similaire ?**
+
+0 à 3 = angle très générique ;
+4 à 6 = différenciation partielle ;
+7 à 8 = angle clair ;
+9 à 10 = angle net, spécifique et défendable.
+
+## 7.2.8 Logique catalogue ou coffret, 5 points
+
+Mesure la capacité de la capsule à s’intégrer dans une offre plus large.
+
+Question centrale :
+
+**Cette capsule peut-elle renforcer un univers, un futur coffret ou un maillage interne naturel ?**
+
+0 à 1 = capsule isolée ;
+2 à 3 = lien possible ;
+4 à 5 = forte logique de catalogue ou de coffret.
+
+---
+
+## 7.3 Coefficient de prudence
+
+Le coefficient de prudence est appliqué après le score principal.
+
+Il ne sert pas à punir les sujets sensibles. Il sert à mesurer la friction stratégique créée par :
+- la sensibilité du sujet ;
+- la promesse implicite ;
+- le risque de claim ;
+- le besoin d’expertise ;
+- la difficulté de désamorçage ;
+- la concurrence ;
+- la complexité de production.
+
+Une idée sensible peut rester prioritaire si elle permet un bon équilibre entre attractivité commerciale, cadrage prudent et livrables concrets.
+
+## 7.3.1 Frictions fréquentes
+
+Les frictions suivantes doivent être surveillées :
+
+- sujet médical, psychologique, neurodéveloppemental ou thérapeutique ;
+- sommeil bébé ;
+- ADHD/TDAH ;
+- autisme ;
+- postpartum ;
+- hormones ;
+- santé mentale ;
+- alimentation sélective extrême ;
+- promesse absolue du type “ending”, “fix”, “without”, “recovery”, “no more” ;
+- concurrence élevée ;
+- difficulté de production élevée ;
+- besoin d’expertise forte ;
+- risque de culpabilisation ;
+- désamorçage impossible sans casser la vente.
+
+## 7.3.2 Barème du coefficient de prudence
+
+0 = aucune friction significative ;
+-5 = friction faible ou facilement cadrable ;
+-10 = friction modérée ;
+-15 = friction forte mais maîtrisable ;
+-20 = friction très forte ;
+-25 = friction trop élevée pour une capsule simple à ce stade.
+
+Le coefficient doit toujours être justifié en une phrase courte.
+
+## 7.3.3 Règle de désamorçage commercial
+
+Les mots forts ne sont pas interdits dans les titres.
+
+Ils doivent être évalués selon trois questions :
+
+1. le titre attire-t-il l’attention ?
+2. le titre crée-t-il une promesse implicite excessive ?
+3. le sous-titre, la page produit et le contenu peuvent-ils désamorcer la promesse sans réduire excessivement l’envie d’achat ?
+
+Règle applicable :
+
+**titre émotionnel, sous-titre contractuel.**
+
+Le titre capte l’attention.  
+Le sous-titre cadre la promesse.  
+La page produit rassure.  
+La capsule délivre un outil concret.
+
+---
+
+## 7.4 Utilisation des signaux PDFTrend
+
+Les signaux PDFTrend ne doivent pas être utilisés comme verdict final.
+
+Ils servent uniquement de signaux d’entrée.
+
+## 7.4.1 Opportunity Score
+
+L’Opportunity Score indique un potentiel apparent.
+
+Il ne remplace pas le scoring interne.
+
+## 7.4.2 Volume de recherche
+
+Un volume élevé indique une demande possible, mais peut aussi signaler une concurrence forte ou un sujet très générique.
+
+## 7.4.3 Tendance
+
+Un sujet “Rising” reçoit un signal favorable, mais ce signal reste secondaire par rapport à la tension commerciale, la capsulabilité et la promesse maîtrisable.
+
+## 7.4.4 Concurrence
+
+Une concurrence faible est un bonus stratégique.
+
+Une concurrence élevée n’élimine pas une idée, mais impose une différenciation plus forte.
+
+## 7.4.5 Difficulté
+
+Une idée “Easy” est favorable pour un premier test.
+
+Une idée “Hard” doit recevoir un coefficient de prudence, sauf avantage stratégique exceptionnel.
+
+---
+
+## 8. Lecture du score total
+
+Le score final est calculé ainsi :
+
+**score principal sur 100 + coefficient de prudence = score final.**
+
+Le score final ne doit pas être lu seul. Il doit être interprété avec :
+- le statut de la capsule ;
+- l’univers prioritaire ;
+- la phase actuelle du projet ;
+- la prochaine action disponible.
+
+## 8.1 Score final 80 à 100
+
+Capsule très prioritaire.
+
+Peut entrer dans une shortlist de production si elle est cohérente avec l’univers prioritaire et si sa prochaine action est claire.
+
+## 8.2 Score final 70 à 79
+
+Capsule intéressante.
+
+À qualifier, cadrer ou comparer avec d’autres idées avant production.
+
+## 8.3 Score final 60 à 69
+
+Capsule moyenne ou stratégique mais frictionnelle.
+
+À conserver seulement si elle complète un univers, révèle une opportunité spécifique ou mérite un recadrage.
+
+## 8.4 Score final inférieur à 60
+
+Capsule faible ou trop frictionnelle à ce stade.
+
+À suspendre ou abandonner, sauf décision stratégique explicite de Captain.
+
+## 8.5 Règle anti-faux positifs
+
+Une capsule ne doit pas être priorisée simplement parce qu’elle coche beaucoup de critères de surface.
+
+Question finale obligatoire :
+
+**Pourquoi cette capsule devrait-elle passer avant les autres idées disponibles ?**
+
+Si la réponse n’est pas claire, la capsule reste en qualification.
+
+---
+
+## 9. Règles de production intégrées
+
+À ce stade, il n’existe pas de document séparé `Guide_Production_Des_Capsules`.
+
+Les règles de production de base sont donc intégrées dans ce registre.
+
+## 9.1 Doctrine des capsules rédactionnelles courtes
+
+Les capsules du Cocon doivent privilégier l’efficacité concrète plutôt que l’accumulation de contenu.
+
+Le principe directeur est :
+
+**un problème précis, une prochaine action claire, une lecture courte.**
+
+Les capsules, en particulier dans l’univers parentalité, ne doivent pas prendre la forme d’une dissertation éducative. Le public cherche d’abord un repère utilisable dans un moment réel : crise, refus, écran, conflit, charge mentale, conversation difficile ou routine qui bloque.
+
+Une capsule doit donc répondre prioritairement à la question :
+
+**qu’est-ce que je peux dire, faire ou décider dès aujourd’hui ?**
+
+À privilégier :
+- situations concrètes ;
+- phrases prêtes à utiliser ;
+- exemples du quotidien ;
+- étapes courtes ;
+- mini-plans d’action ;
+- checklists simples ;
+- repères visuels légers ;
+- ton rassurant, non culpabilisant.
+
+À éviter :
+- longues introductions théoriques ;
+- explications psychologiques lourdes ;
+- promesses globales du type “devenez un meilleur parent” ;
+- workbooks massifs ;
+- toolkits complexes ;
+- cartes multiples à designer ;
+- tableaux répétitifs ;
+- contenu qui exige une forte transposition Canva.
+
+## 9.2 Longueur, densité et valeur perçue
+
+La longueur cible des capsules rédactionnelles courtes est :
+
+- lead magnet : 4 à 8 pages ;
+- capsule simple : 10 à 14 pages ;
+- capsule standard : 12 à 18 pages ;
+- capsule dense : 18 à 24 pages maximum ;
+- coffret ou workbook : 30 pages et plus uniquement si justifié.
+
+La longueur prioritaire pour les premières capsules parenting est :
+
+**12 à 18 pages.**
+
+Le nombre de pages ne doit pas servir à créer une impression artificielle de valeur. La valeur vient du nombre d’actions utiles par minute de lecture.
+
+Règle centrale :
+
+**ne pas compter les mots, compter les actions.**
+
+Une capsule de 14 pages avec 10 scripts, 1 checklist et 1 plan 7 jours peut avoir plus de valeur qu’un document de 40 pages trop explicatif.
+
+## 9.3 Règle “une page = un repère”
+
+Chaque page doit contenir une seule idée principale.
+
+Règle :
+
+**une page = une idée = un petit repère.**
+
+Chaque page doit pouvoir être comprise rapidement, y compris en lecture mobile.
+
+À appliquer :
+- titre clair ;
+- texte court ;
+- structure scannable ;
+- une action ou un exemple ;
+- pas de mur de texte ;
+- pas de paragraphes longs ;
+- espaces blancs assumés ;
+- maximum 100 à 140 mots par page en moyenne.
+
+Une page peut contenir :
+- une situation ;
+- une erreur fréquente ;
+- une phrase à dire ;
+- une phrase à éviter ;
+- une mini-checklist ;
+- un exemple concret ;
+- une prochaine action.
+
+Une page ne doit pas mélanger trop de fonctions : théorie, méthode, exemple, plan d’action, association commerciale, exception et nuance longue.
+
+Si une page contient trop d’éléments, elle doit être divisée ou simplifiée.
+
+## 9.4 Structure type d’une capsule rédactionnelle courte
+
+Une capsule rédactionnelle courte doit idéalement contenir :
+
+1. page de couverture ;
+2. page “pour quel moment cette capsule est faite” ;
+3. mode d’emploi rapide ;
+4. clarification du problème ;
+5. objectif concret de la capsule ;
+6. situations, scripts, étapes ou actions ;
+7. exemples courts ;
+8. checklist simple si pertinente ;
+9. mini-plan d’action si pertinent ;
+10. page de synthèse ;
+11. page “pour aller plus loin” ou capsules à associer si disponibles ;
+12. dernière page avec repère final, QR Code ou lien boutique si pertinent.
+
+Structure recommandée pour une capsule standard de 14 à 16 pages :
+
+- page 1 : couverture ;
+- page 2 : situation cible et douleur concrète ;
+- page 3 : mode d’emploi en 10 minutes ;
+- pages 4 à 11 : situations, scripts, étapes ou repères actionnables ;
+- page 12 : mini-plan d’action 3 ou 7 jours ;
+- page 13 : synthèse “à retenir” ;
+- page 14 : capsules à associer ou prochaine action ;
+- pages 15 à 16 : bonus optionnel, script, checklist, fiche de poche, QR Code ou clôture douce.
+
+La structure doit rester adaptable selon la capsule. Une page de maillage interne ou une page finale avec QR Code ne doit pas être ajoutée mécaniquement si elle alourdit inutilement une capsule très courte.
+
+## 9.5 Livrables internes possibles
+
+Une capsule peut inclure :
+
+- fiche pratique ;
+- checklist ;
+- carte méthode ;
+- plan sur 3 jours ;
+- plan sur 7 jours ;
+- plan sur 21 jours synthétique ;
+- rituel court ;
+- tableau de suivi simple ;
+- mini-script ;
+- questions de journaling ;
+- modèle imprimable léger ;
+- fiche parent ;
+- fiche enfant ;
+- fiche action rapide.
+
+Les livrables doivent rester proportionnés au format court.
+
+À éviter au démarrage :
+- cartes découpables nombreuses ;
+- 50 fiches ou plus ;
+- tableaux multiples ;
+- supports très graphiques ;
+- livrables qui demandent une forte adaptation manuelle dans Canva.
+
+## 9.6 Gabarit Claude → Canva
+
+Claude ne doit pas rédiger un guide long. Claude doit produire une suite de pages directement transposables dans Canva.
+
+Format attendu :
+
+PAGE 1  
+Couverture :
+- titre ;
+- sous-titre ;
+- promesse douce.
+
+PAGE 2  
+Pour quel moment cette capsule est faite :
+- situation cible ;
+- douleur concrète ;
+- bénéfice attendu.
+
+PAGE 3  
+Mode d’emploi rapide :
+- comment utiliser la capsule ;
+- durée de lecture ;
+- conseil d’usage.
+
+PAGES 4 À 12 / 15  
+Corps de la capsule :
+- une situation, un script, une étape ou une action par page ;
+- structure courte ;
+- exemple concret ;
+- prochaine action.
+
+DERNIÈRES PAGES  
+- mini-plan d’action ;
+- synthèse ;
+- capsules à associer ;
+- prochaine action douce ;
+- page finale avec fiche récapitulative, QR Code, site officiel et phrase de marque si pertinent.
+
+Structure type d’une page intérieure :
+
+Titre de page
+
+Situation :  
+...
+
+Ce qui bloque :  
+...
+
+À essayer :  
+...
+
+Phrase utile :  
+“...”
+
+Prochaine action :  
+...
+
+Toutes les pages ne doivent pas utiliser tous ces blocs. Le gabarit sert de repère, pas de cage.
+
+Lorsqu’une page contient beaucoup de texte utile, Claude doit éviter de prévoir une illustration centrale. Le texte doit pouvoir occuper la largeur utile de la page, avec des décors seulement en bordure.
+
+## 9.7 Brief Claude minimal
+
+Avant production avec Claude, le brief doit contenir :
+
+- titre de travail ;
+- titre commercial ;
+- univers ;
+- public cible ;
+- douleur principale ;
+- promesse ;
+- ton ;
+- limites de formulation ;
+- structure attendue ;
+- livrables attendus ;
+- longueur souhaitée ;
+- nombre de pages cible ;
+- type de page attendu ;
+- exemples de formulations à éviter ;
+- exemples de formulations souhaitées ;
+- capsules associées possibles.
+
+Le brief doit préciser que le contenu doit être écrit en pages Canva prêtes à mettre en forme.
+
+Si une capsule prévoit du maillage interne, le brief doit aussi préciser :
+- les capsules associées à mentionner ;
+- le bénéfice concret de chaque association ;
+- le CTA recommandé ;
+- l’URL cible si elle est déjà disponible ;
+- si la recommandation doit être conçue comme une carte cliquable.
+
+Si une capsule prévoit une dernière page avec QR Code, le brief doit préciser :
+- la destination du QR Code ;
+- le texte court d’accompagnement ;
+- le site officiel à afficher ;
+- la phrase de marque à placer en bas de page.
+
+## 9.8 Règles spécifiques aux capsules parenting
+
+Les capsules parenting doivent partir d’un moment réel du quotidien parental.
+
+Exemples :
+- l’enfant refuse d’arrêter l’écran ;
+- le parent sent qu’il va crier ;
+- l’enfant interrompt sans cesse ;
+- les tâches deviennent un conflit ;
+- une conversation sensible est évitée ;
+- le parent ne sait pas quoi dire.
+
+La promesse doit être située, concrète et maîtrisée.
+
+À privilégier :
+- “quoi dire quand...” ;
+- “comment poser une limite sans bras de fer” ;
+- “comment préparer une conversation difficile” ;
+- “comment tester une routine simple cette semaine”.
+
+À éviter :
+- “résoudre définitivement” ;
+- “ne plus jamais crier” ;
+- “mettre fin aux crises” ;
+- “guérir l’anxiété” ;
+- “corriger le comportement” ;
+- “méthode miracle”.
+
+Les capsules parenting doivent rester :
+- non médicales ;
+- non thérapeutiques ;
+- non culpabilisantes ;
+- non expertes au sens clinique ;
+- orientées soutien quotidien ;
+- centrées sur la clarté et l’action.
+
+## 9.9 Règles anti-friction de production
+
+Les premières capsules doivent être simples à produire avec Claude et faciles à mettre en page dans Canva.
+
+À éviter au démarrage :
+- toolkits imprimables complexes ;
+- cartes découpables ;
+- 50 fiches ou plus ;
+- tableaux multiples ;
+- plans jour par jour trop détaillés ;
+- documents très graphiques ;
+- contenus qui demandent beaucoup d’adaptation manuelle.
+
+À privilégier :
+- scripts ;
+- listes courtes ;
+- mini-plans ;
+- checklists simples ;
+- pages situationnelles ;
+- encadrés “à retenir” ;
+- structure répétable.
+
+Critère de validation :
+
+**si le texte de Claude ne peut pas être copié-collé dans Canva page par page sans réécriture lourde, la structure est trop complexe.**
+
+## 9.10 Exceptions de longueur
+
+Certaines capsules peuvent dépasser 18 pages si la structure le justifie.
+
+Exemples :
+- recueil de scripts ;
+- parcours 21 jours ;
+- capsule conversationnelle avec plusieurs âges ;
+- capsule dense avec checklist finale.
+
+Limite recommandée :
+
+**24 pages maximum pour une capsule individuelle.**
+
+Au-delà, il faut envisager :
+- diviser la capsule en deux ;
+- créer un coffret ;
+- transformer une partie en bonus ;
+- simplifier la promesse.
+
+Règle :
+
+**si le contenu devient dense, ne pas allonger automatiquement. Segmenter.**
+
+## 9.11 Règle de non-production aveugle
+
+Aucune capsule ne doit entrer en production Claude sans :
+- problème clair ;
+- public cible défini ;
+- promesse formulée ;
+- format de capsule compatible avec une production courte ;
+- nombre de pages cible ;
+- statut au minimum “Brief en cours” ;
+- prochaine action définie.
+
+## 9.12 Critères de validation avant production
+
+Avant de produire une capsule avec Claude, vérifier :
+
+1. La douleur est-elle claire ?
+2. Le parent comprend-il immédiatement à quoi sert la capsule ?
+3. La capsule tient-elle en 12 à 18 pages ?
+4. Chaque page peut-elle livrer un repère concret ?
+5. Le format est-il simple à mettre en page dans Canva ?
+6. La promesse est-elle attractive mais maîtrisable ?
+7. Le sujet évite-t-il les claims médicaux ou thérapeutiques ?
+8. La capsule contient-elle assez d’actions utiles ?
+9. Le maillage interne naturel est-il identifié ?
+10. Le document peut-il être lu rapidement sur mobile ?
+11. Les illustrations prévues sont-elles suffisamment variées ?
+12. Les pages denses laissent-elles assez de place au texte ?
+13. Les éventuels liens internes sont-ils prévus comme zones cliquables ?
+14. La dernière page prévoit-elle le site officiel, la phrase de marque et le QR Code si pertinent ?
+
+Si au moins trois réponses sont faibles, la capsule doit être recadrée avant production.
+
+## 9.13 Règles de mise en page interne et lisibilité
+
+La mise en page interne doit servir la lecture avant de servir la décoration.
+
+Règle centrale :
+
+**la lisibilité prime sur l’illustration.**
+
+À appliquer :
+- utiliser toute la largeur utile lorsque le texte est dense ;
+- éviter les retours à la ligne trop précoces ;
+- ne pas réduire artificiellement les blocs texte pour placer une illustration ;
+- garder les décors légers en périphérie ;
+- privilégier des encadrés sobres pour structurer les informations ;
+- conserver des marges respirantes sans créer de vide inutile.
+
+Une page peut être très belle sans illustration centrale.
+
+Quand une page contient plusieurs phrases utiles, scripts, étapes ou rappels, il faut privilégier :
+- typographie claire ;
+- interlignage confortable ;
+- encadrés simples ;
+- pictogrammes discrets ;
+- séparation visuelle légère ;
+- aucun personnage si celui-ci réduit la place disponible.
+
+À éviter :
+- illustrations décoratives qui prennent la place du contenu ;
+- sauts à la ligne trop courts ;
+- blocs trop étroits ;
+- pictogrammes trop nombreux ;
+- répétition d’une même composition page après page.
+
+## 9.14 Règles de variation des illustrations
+
+Les capsules ne doivent pas répéter mécaniquement les mêmes illustrations.
+
+Règle :
+
+**une même illustration humaine ne doit pas devenir un motif récurrent dans une capsule.**
+
+À appliquer :
+- ne pas réutiliser la même illustration parent-enfant plus de 2 fois dans une capsule complète ;
+- éviter de répéter la même pose, le même duo ou la même scène sur plusieurs pages rapprochées ;
+- varier les visuels selon la fonction de la page ;
+- réserver les personnages aux moments où ils apportent une vraie valeur émotionnelle ou narrative ;
+- privilégier les objets, pictogrammes et décors légers pour les pages informatives.
+
+La variation visuelle peut se faire avec :
+- cartes de scripts ;
+- carnet ;
+- stylo ;
+- tasse ;
+- jouet en bois ;
+- branches fines ;
+- formes organiques ;
+- bulles de dialogue ;
+- pictogrammes ;
+- petites scènes d’objets ;
+- mains ou silhouettes partielles ;
+- mère seule si le sujet porte sur le parent ;
+- enfant seul si le sujet porte sur l’émotion ou la routine ;
+- aucune illustration centrale si la page est dense.
+
+Une illustration humaine peut rester cohérente avec la capsule si elle est redessinée dans une posture différente, avec une intention différente et une composition différente.
+
+À éviter :
+- utiliser la même scène parent-enfant comme solution par défaut ;
+- remplir les pages avec une illustration uniquement parce qu’il reste de l’espace ;
+- donner l’impression d’un modèle Canva répété ;
+- surillustrer les pages de scripts.
+
+## 9.15 Règles de maillage interne cliquable
+
+Les pages de maillage interne doivent être pensées comme des repères utiles, pas comme une publicité agressive.
+
+Règle :
+
+**le maillage doit être visible, doux et cliquable.**
+
+Lorsqu’une capsule recommande une autre capsule, la recommandation doit idéalement prendre la forme d’une carte ou d’un encadré doux.
+
+Une carte de maillage peut contenir :
+- un pictogramme ou petit logo de lien ;
+- le titre de la capsule associée ;
+- une phrase de bénéfice concret ;
+- un CTA discret ;
+- une zone cliquable dans le PDF final.
+
+CTA recommandés :
+- Découvrir cette capsule →
+- Voir la capsule associée →
+- Continuer avec cette capsule →
+- Explorer cette solution →
+- Découvrir les autres solutions du Cocon →
+
+À éviter :
+- lien bleu souligné classique ;
+- CTA agressif du type “Acheter maintenant” dans le corps de la capsule ;
+- trop de capsules recommandées ;
+- maillage qui ressemble à une publicité externe ;
+- recommandation sans lien naturel avec le problème traité.
+
+La carte entière peut être rendue cliquable dans le PDF final. Si ce n’est pas possible, le bouton ou CTA doit l’être.
+
+Le lecteur doit comprendre visuellement qu’il peut cliquer grâce à :
+- une flèche ;
+- un pictogramme de lien ;
+- une pastille douce ;
+- un bouton discret ;
+- une phrase CTA claire.
+
+## 9.16 Dernière page, QR Code, site et signature
+
+La dernière page d’une capsule peut contenir une zone de clôture et d’orientation.
+
+Elle doit rester douce, utile et légère.
+
+Éléments recommandés :
+- rappel final ;
+- fiche de poche ou synthèse si pertinent ;
+- QR Code discret ;
+- lien vers le site officiel ;
+- phrase de marque ;
+- éventuel CTA vers la boutique ou le catalogue.
+
+Le QR Code doit être placé dans une petite case dédiée, sobre et lisible.
+
+La case QR Code peut contenir :
+- un titre court ;
+- un QR Code ;
+- une phrase d’accompagnement.
+
+Exemples de titres :
+- Explorer le Cocon
+- Découvrir les autres capsules
+- Continuer le chemin
+- Retrouver les solutions douces
+
+Le site officiel doit apparaître en bas de page lorsque la dernière page est utilisée comme clôture de capsule :
+
+**www.lecocondessolutions.fr - Des solutions douces pour avancer plus clairement.**
+
+Cette phrase peut être cliquable dans le PDF final.
+
+À appliquer :
+- le QR Code ne doit pas dominer la page ;
+- le site doit rester lisible ;
+- la phrase de marque doit être discrète ;
+- l’ensemble doit rester cohérent avec la direction artistique ;
+- le lien ne doit pas être présenté comme une pression d’achat.
+
+À éviter :
+- QR Code trop grand ;
+- page finale trop commerciale ;
+- plusieurs CTA concurrents ;
+- surcharge visuelle ;
+- confusion entre fiche de synthèse et page de vente.
+
+## 9.17 Règle d’assemblage final des liens PDF
+
+Les liens ne sont pas garantis par l’image ou la maquette seule.
+
+Au moment de l’assemblage final du PDF, les liens doivent être ajoutés dans l’outil d’export ou d’édition utilisé.
+
+À vérifier avant livraison :
+- les cartes de maillage sont cliquables ;
+- les CTA sont cliquables ;
+- le QR Code renvoie vers la bonne page ;
+- le site officiel est cliquable si possible ;
+- les liens s’ouvrent correctement ;
+- les liens ne masquent pas le texte ou les éléments visuels ;
+- les liens sont cohérents avec les capsules réellement disponibles.
+
+Si les liens ne sont pas encore disponibles, la maquette peut prévoir des zones réservées, mais le PDF final ne doit pas contenir de liens morts.
+
+---
+
+## 10. Règles d’offre et de coffrets intégrées
+
+À ce stade, il n’existe pas de document séparé `Guide_Architecture_Offres_Et_Coffrets`.
+
+Les règles de base sont intégrées dans ce registre.
+
+## 10.1 Capsule individuelle
+
+Une capsule individuelle doit pouvoir être vendue seule.
+
+Elle doit donc porter :
+- une promesse autonome ;
+- une page Shopify claire ;
+- un bénéfice immédiat ;
+- un prix justifiable ;
+- une couverture attractive.
+
+La capsule individuelle ne doit pas dépendre d’un coffret pour être comprise.
+
+## 10.2 Coffret
+
+Un coffret réunit plusieurs capsules complémentaires.
+
+Un coffret ne doit pas être créé trop tôt.
+
+Il devient pertinent si :
+- au moins 2 à 3 capsules se renforcent naturellement ;
+- le public cible est le même ou très proche ;
+- la promesse globale est plus forte que la somme des capsules ;
+- le prix groupé augmente le panier moyen sans créer de confusion.
+
+## 10.3 Maillage interne
+
+Chaque capsule doit être pensée avec un maillage futur possible.
+
+Exemples :
+- “Pour aller plus loin” ;
+- “Capsule complémentaire” ;
+- “À associer avec” ;
+- code promo interne ;
+- offre coffret.
+
+Le maillage doit être prévu dès le brief, mais activé progressivement selon les capsules réellement disponibles.
+
+Le maillage interne doit avoir une double fonction :
+- aider le lecteur à continuer son chemin ;
+- soutenir la logique catalogue sans pression commerciale.
+
+Une capsule ne doit jamais recommander une autre capsule uniquement parce qu’elle existe. Le lien doit être naturel, utile et compréhensible.
+
+## 10.4 Maillage interne minimal
+
+Chaque capsule doit prévoir un maillage interne, mais ce maillage doit rester léger.
+
+Règle :
+
+**2 capsules associées maximum par capsule individuelle.**
+
+Le maillage doit être pensé comme une suite naturelle, pas comme une poussée commerciale agressive.
+
+Types de liens possibles :
+- capsule complémentaire ;
+- capsule suivante dans le même problème ;
+- capsule alternative pour un autre âge ;
+- capsule plus pratique ;
+- capsule plus émotionnelle.
+
+Exemple :
+Une capsule sur les limites d’écran peut pointer vers :
+- une capsule sur le reset écran ;
+- une capsule sur le jeu autonome.
+
+Elle ne doit pas pointer vers cinq capsules différentes.
+
+## 10.5 Page finale d’association / upsell doux
+
+Chaque capsule peut contenir une page finale courte.
+
+Titre possible :
+
+**Pour aller plus loin**
+
+ou :
+
+**À associer avec**
+
+Contenu :
+- 1 phrase de transition ;
+- 1 à 2 capsules associées ;
+- bénéfice concret de chaque capsule ;
+- CTA discret ;
+- pas de promesse forcée ;
+- pas de pression commerciale.
+
+Présentation recommandée :
+- une carte douce par capsule associée ;
+- un pictogramme ou petit logo de lien ;
+- un titre clair ;
+- une phrase de bénéfice ;
+- un CTA du type “Découvrir cette capsule →” ;
+- une zone cliquable dans le PDF final.
+
+Exemple :
+
+Si les écrans sont surtout un déclencheur de conflit à la maison, la capsule “Screen Time Boundaries” peut vous aider à poser un cadre plus clair.
+
+Si le besoin principal est de retrouver un peu d’espace dans la journée, la capsule “Independent Play Blueprint” peut aider à installer progressivement des temps de jeu autonome.
+
+Le ton doit rester doux, utile et orienté chemin.
+
+## 10.6 Présentation commerciale d’une capsule
+
+La page Shopify doit présenter la capsule comme un outil de situation, pas comme un document abstrait.
+
+Structure recommandée :
+
+1. titre orienté douleur ou moment réel ;
+2. sous-titre orienté résultat maîtrisé ;
+3. bloc “pour les moments où...” ;
+4. ce que la capsule aide à faire ;
+5. ce que la capsule contient ;
+6. aperçu visuel de quelques pages ;
+7. format, durée de lecture et usage ;
+8. cadrage prudent si le sujet est sensible ;
+9. capsules à associer ;
+10. appel à l’action.
+
+La présentation commerciale doit éviter les formulations de fausse proximité du type “j’ai été à votre place” si ce n’est pas factuellement vrai.
+
+À privilégier :
+- promesse située ;
+- bénéfice immédiat ;
+- vocabulaire concret ;
+- preuve par la structure ;
+- aperçu de pages internes ;
+- mention d’usage rapide.
+
+À éviter :
+- promesse miracle ;
+- dramatisation excessive ;
+- discours culpabilisant ;
+- argument d’autorité non justifié ;
+- impression de livre long ou théorique.
+
+## 10.7 Prix
+
+Le prix exact n’est pas validé à ce stade.
+
+Chaque fiche peut contenir :
+- prix envisagé bas ;
+- prix envisagé central ;
+- prix envisagé premium ;
+- justification du prix ;
+- comparaison avec valeur perçue ;
+- potentiel de bundle ou coffret.
+
+## 10.8 Lien final vers le Cocon
+
+Chaque capsule peut prévoir un lien final vers l’écosystème du Cocon.
+
+Ce lien peut prendre la forme :
+- d’un QR Code ;
+- d’un bouton discret ;
+- d’une ligne de site cliquable ;
+- d’une phrase de transition vers les autres capsules.
+
+Formulation recommandée :
+
+**www.lecocondessolutions.fr - Des solutions douces pour avancer plus clairement.**
+
+Cette ligne doit être réservée en priorité à la dernière page ou au pied de page final, afin de ne pas surcharger les pages de contenu.
+
+---
+
+## 11. Vue synthétique actuelle
+
+## 11.1 Décision active
+
+Le projet doit commencer par l’univers **Parentalité**, sauf arbitrage contraire ultérieur de Captain.
+
+## 11.2 Hypothèse active
+
+Les trois premières pistes issues du cadrage initial sont :
+
+1. capsule sur l’intelligence émotionnelle de l’enfant ;
+2. capsule sur la détox écrans ;
+3. capsule sur la maison ADHD-friendly ou maison apaisée.
+
+Ces pistes ne sont pas encore validées comme produits à lancer.  
+Elles constituent une première base de qualification.
+
+## 11.3 Priorité immédiate
+
+La priorité est de transformer ces pistes en fiches capsules comparables.
+
+Objectif :
+- clarifier la douleur ;
+- clarifier la promesse ;
+- scorer chaque piste ;
+- choisir la première capsule à produire.
+
+---
+
+## 12. Registre actif des capsules
+
+---
+
+# CAP-PAR-001
+
+## Identification
+
+ID capsule : CAP-PAR-001  
+Nom de travail : Intelligence émotionnelle enfant  
+Titre commercial pressenti : à définir  
+Univers : Parentalité  
+Statut : Hypothèse active  
+Responsable principal : Chief_Structuration_Agent  
+Contributeurs : Copywriting_Agent, Artistic_Lead_Agent  
+Date de création : 2026-05-11  
+Dernière mise à jour : 2026-05-11
+
+## Stratégie
+
+Problème traité :  
+Les parents se sentent démunis face aux crises émotionnelles, colères, pleurs ou oppositions de leur enfant.
+
+Public cible :  
+Parents d’enfants jeunes, probablement 3 à 8 ans, confrontés à des épisodes émotionnels récurrents.
+
+Situation d’achat :  
+Le parent cherche une réponse simple, rassurante et non culpabilisante pour mieux comprendre et accompagner les émotions de son enfant.
+
+Douleur principale :  
+Impression de perdre le contrôle, fatigue émotionnelle, culpabilité après les crises, sentiment de ne pas savoir comment réagir.
+
+Désir principal :  
+Retrouver du calme, comprendre l’enfant, disposer de phrases et gestes simples à appliquer.
+
+Objection principale :  
+Crainte d’un contenu trop théorique, trop culpabilisant ou trop “parent parfait”.
+
+Angle émotionnel :  
+Transformer les crises en moments plus lisibles, sans promettre leur disparition totale.
+
+Promesse possible :  
+Une capsule pour mieux comprendre les tempêtes émotionnelles de votre enfant et savoir quoi faire, étape par étape, sans culpabilité.
+
+Bénéfice immédiat :  
+Avoir une méthode simple pour réagir dans les moments de tension.
+
+Bénéfice secondaire :  
+Améliorer la confiance parentale et réduire la sensation d’improvisation.
+
+Niveau de prudence requis :  
+Élevé. Ne pas promettre la fin des crises. Ne pas médicaliser. Ne pas diagnostiquer.
+
+## Scoring provisoire
+
+Filtres d’entrée : validés  
+Univers compatible : oui  
+Problème compréhensible : oui  
+Public identifiable : oui  
+Format capsule plausible : oui  
+Cohérence de marque minimale : oui  
+
+Tension commerciale réelle : 18 / 20  
+Désir actif de solution : 14 / 15  
+Capsulabilité concrète : 15 / 15  
+Promesse attractive mais maîtrisable : 13 / 15  
+Potentiel publicitaire direct : 9 / 10  
+Facilité de lancement : 8 / 10  
+Différenciation réelle : 7 / 10  
+Logique catalogue ou coffret : 5 / 5  
+
+Score principal provisoire : 89 / 100  
+Coefficient de prudence : -5  
+Justification du coefficient : sujet émotionnel sensible, mais maîtrisable si la capsule évite toute promesse thérapeutique ou disparition des crises.  
+
+Score final provisoire : 84 / 100
+
+## Offre
+
+Format prévu : Capsule numérique  
+Longueur estimée : courte à moyenne  
+Livrables internes possibles :
+- fiche “que faire pendant une crise” ;
+- phrases à dire ;
+- phrases à éviter ;
+- mini-plan de retour au calme ;
+- carte émotion ;
+- routine après-crise ;
+- checklist parent.
+
+Prix envisagé : à définir  
+Potentiel de coffret : Très fort  
+Coffret possible : Parentalité douce, émotions enfant, routines apaisées  
+Maillage interne possible :
+- détox écrans ;
+- routine du soir ;
+- charge mentale parentale ;
+- maison apaisée.
+
+Priorité commerciale : Très élevée
+
+## Production
+
+Structure prévue : à définir  
+Brief Claude : non créé  
+Éléments visuels nécessaires :
+- ambiance parentale douce ;
+- jouets bois ;
+- cartes émotions ;
+- carnet ;
+- lumière naturelle ;
+- aucune image de crise frontale.
+
+Couverture : non créée  
+Mockups : non créés  
+Page Shopify : non rédigée  
+État de production : non démarré
+
+## Prochaine action
+
+Action :  
+Demander au Copywriting_Agent de proposer 5 titres commerciaux, 3 promesses prudentes et une formulation de douleur non culpabilisante.
+
+Agent responsable : Copywriting_Agent  
+But : préparer l’arbitrage de production de la première capsule parentalité.  
+Critère de sortie : obtenir une fiche suffisamment claire pour passer au statut “Brief en cours”.
+
+---
+
+# CAP-PAR-002
+
+## Identification
+
+ID capsule : CAP-PAR-002  
+Nom de travail : Détox écrans enfant  
+Titre commercial pressenti : à définir  
+Univers : Parentalité  
+Statut : À qualifier  
+Responsable principal : Chief_Structuration_Agent  
+Contributeurs : Copywriting_Agent, Artistic_Lead_Agent, Meta_Ads_Agent  
+Date de création : 2026-05-11  
+Dernière mise à jour : 2026-05-11
+
+## Stratégie
+
+Problème traité :  
+Les parents veulent réduire les écrans sans déclencher une guerre quotidienne.
+
+Public cible :  
+Parents d’enfants exposés régulièrement aux écrans, probablement 4 à 10 ans.
+
+Situation d’achat :  
+Le parent sent que les écrans prennent trop de place, mais ne sait pas comment réduire sans conflit.
+
+Douleur principale :  
+Conflits, culpabilité, fatigue, peur des effets sur l’attention, difficulté à proposer des alternatives.
+
+Désir principal :  
+Retrouver du calme, des activités alternatives et un cadre simple.
+
+Objection principale :  
+Crainte d’un discours culpabilisant ou irréaliste, surtout si les écrans sont déjà intégrés à la vie familiale.
+
+Angle émotionnel :  
+Réduire les écrans sans guerre, par petits ajustements réalistes.
+
+Promesse possible :  
+Une capsule pour remettre les écrans à leur juste place avec un plan doux, progressif et applicable en famille.
+
+Bénéfice immédiat :  
+Disposer d’un plan d’action concret pour commencer sans rupture brutale.
+
+Bénéfice secondaire :  
+Réintroduire des temps calmes, créatifs ou partagés.
+
+Niveau de prudence requis :  
+Élevé. Éviter les claims neurodéveloppementaux trop affirmatifs sans source. Éviter la culpabilisation.
+
+## Scoring provisoire
+
+Filtres d’entrée : validés  
+Univers compatible : oui  
+Problème compréhensible : oui  
+Public identifiable : oui  
+Format capsule plausible : oui  
+Cohérence de marque minimale : oui  
+
+Tension commerciale réelle : 19 / 20  
+Désir actif de solution : 14 / 15  
+Capsulabilité concrète : 15 / 15  
+Promesse attractive mais maîtrisable : 14 / 15  
+Potentiel publicitaire direct : 10 / 10  
+Facilité de lancement : 9 / 10  
+Différenciation réelle : 8 / 10  
+Logique catalogue ou coffret : 5 / 5  
+
+Score principal provisoire : 94 / 100  
+Coefficient de prudence : -5  
+Justification du coefficient : sujet très activable mais à cadrer pour éviter les claims neurodéveloppementaux et la culpabilisation parentale.  
+
+Score final provisoire : 89 / 100
+
+## Offre
+
+Format prévu : Capsule numérique  
+Longueur estimée : courte à moyenne  
+Livrables internes possibles:
+- plan 7 jours ;
+- plan 21 jours ;
+- alternatives aux écrans ;
+- règles familiales simples ;
+- tableau de suivi ;
+- fiche “quoi faire quand l’enfant réclame” ;
+- mini-rituels de transition.
+
+Prix envisagé : à définir  
+Potentiel de coffret : Très fort  
+Coffret possible : Parentalité douce, maison apaisée, routines enfant  
+Maillage interne possible :
+- intelligence émotionnelle ;
+- routine du soir ;
+- activités calmes ;
+- organisation familiale.
+
+Priorité commerciale : Très élevée
+
+## Production
+
+Structure prévue : à définir  
+Brief Claude : non créé  
+Éléments visuels nécessaires :
+- tablette posée de côté ;
+- carnet ;
+- jeux calmes ;
+- lumière naturelle ;
+- ambiance familiale douce ;
+- éviter les images anxiogènes d’enfant hypnotisé par écran.
+
+Couverture : non créée  
+Mockups : non créés  
+Page Shopify : non rédigée  
+État de production : non démarré
+
+## Prochaine action
+
+Action :  
+Qualifier le positionnement exact : “détox écrans”, “réduction douce des écrans” ou “écrans à leur juste place”.
+
+Agent responsable : Copywriting_Agent  
+But : éviter une promesse trop agressive ou culpabilisante.  
+Critère de sortie : titre et promesse compatibles avec la DA et le public cible.
+
+---
+
+# CAP-PAR-003
+
+## Identification
+
+ID capsule : CAP-PAR-003  
+Nom de travail : Maison ADHD-friendly  
+Titre commercial pressenti : à définir  
+Univers : Parentalité  
+Statut : À qualifier  
+Responsable principal : Chief_Structuration_Agent  
+Contributeurs : Copywriting_Agent, Artistic_Lead_Agent  
+Date de création : 2026-05-11  
+Dernière mise à jour : 2026-05-11
+
+## Stratégie
+
+Problème traité :  
+Les familles veulent rendre la maison plus lisible, apaisée et organisée pour des enfants ayant des difficultés d’attention, d’impulsivité ou de routine.
+
+Public cible :  
+Parents d’enfants avec difficultés attentionnelles, suspicion ou diagnostic ADHD/TDAH, ou simplement besoin d’un environnement plus structuré.
+
+Situation d’achat :  
+Le parent cherche des outils visuels et simples pour réduire le chaos domestique.
+
+Douleur principale :  
+Désordre, répétitions constantes, conflits autour des routines, fatigue parentale, impression que l’enfant “n’écoute jamais”.
+
+Désir principal :  
+Créer un environnement plus simple, plus visuel et plus prévisible.
+
+Objection principale :  
+Crainte d’un contenu trop médical, trop complexe, ou réservé aux familles avec diagnostic.
+
+Angle émotionnel :  
+Rendre la maison plus lisible, sans chercher à tout contrôler.
+
+Promesse possible :  
+Une capsule pour créer une maison plus claire, plus visuelle et plus facile à vivre pour les enfants qui se dispersent vite.
+
+Bénéfice immédiat :  
+Obtenir des systèmes simples pour les routines, les objets, les transitions et les consignes.
+
+Bénéfice secondaire :  
+Réduire la fatigue parentale liée aux répétitions.
+
+Niveau de prudence requis :  
+Très élevé. Le terme ADHD/TDAH est sensible. Éviter diagnostic, promesse thérapeutique et formulation médicale excessive.
+
+## Scoring provisoire
+
+Filtres d’entrée : validés sous réserve de cadrage lexical  
+Univers compatible : oui  
+Problème compréhensible : oui  
+Public identifiable : oui  
+Format capsule plausible : oui  
+Cohérence de marque minimale : oui  
+
+Tension commerciale réelle : 17 / 20  
+Désir actif de solution : 13 / 15  
+Capsulabilité concrète : 15 / 15  
+Promesse attractive mais maîtrisable : 11 / 15  
+Potentiel publicitaire direct : 8 / 10  
+Facilité de lancement : 7 / 10  
+Différenciation réelle : 8 / 10  
+Logique catalogue ou coffret : 5 / 5  
+
+Score principal provisoire : 84 / 100  
+Coefficient de prudence : -15  
+Justification du coefficient : le terme ADHD/TDAH crée une friction forte liée au neurodéveloppemental, mais l’idée reste maîtrisable si elle est cadrée comme organisation domestique et non comme solution thérapeutique.  
+
+Score final provisoire : 69 / 100
+
+## Offre
+
+Format prévu : Capsule numérique  
+Longueur estimée : moyenne  
+Livrables internes possibles :
+- checklist maison apaisée ;
+- routine visuelle ;
+- zones de rangement ;
+- pictogrammes simples ;
+- plan de désencombrement doux ;
+- tableau “matin / soir” ;
+- fiches transition.
+
+Prix envisagé : à définir  
+Potentiel de coffret : Fort  
+Coffret possible : Maison apaisée, parentalité structurée, routines douces  
+Maillage interne possible :
+- routine du soir ;
+- détox écrans ;
+- charge mentale parentale ;
+- autonomie enfant.
+
+Priorité commerciale : Élevée mais à manier avec prudence
+
+## Production
+
+Structure prévue : à définir  
+Brief Claude : non créé  
+Éléments visuels nécessaires :
+- maison calme ;
+- paniers ;
+- étiquettes ;
+- pictogrammes ;
+- bureau enfant rangé ;
+- couleurs sauge et ivoire ;
+- éviter tout visuel médical ou clinique.
+
+Couverture : non créée  
+Mockups : non créés  
+Page Shopify : non rédigée  
+État de production : non démarré
+
+## Prochaine action
+
+Action :  
+Décider si le positionnement conserve le terme ADHD-friendly ou bascule vers “maison plus claire pour enfants dispersés”.
+
+Agent responsable : Copywriting_Agent, avec supervision Artistic_Lead_Agent sur cohérence de marque.  
+But : réduire le risque de claim tout en conservant l’attractivité commerciale.  
+Critère de sortie : formulation compatible avec le public cible, la prudence et la conversion.
+
+---
+
+# CAP-ESO-001
+
+## Identification
+
+ID capsule : CAP-ESO-001  
+Nom de travail : Rituel nouvelle lune  
+Titre commercial pressenti : à définir  
+Univers : Ésotérisme doux  
+Statut : Idée brute  
+Responsable principal : Chief_Structuration_Agent  
+Contributeurs : Copywriting_Agent, Artistic_Lead_Agent  
+Date de création : 2026-05-11  
+Dernière mise à jour : 2026-05-11
+
+## Stratégie
+
+Problème traité :  
+Les personnes intéressées par l’introspection veulent un rituel simple pour faire le point, poser une intention ou clarifier une période.
+
+Public cible :  
+Personnes attirées par les rituels doux, la lune, le journaling, l’intuition ou l’introspection symbolique.
+
+Situation d’achat :  
+Achat impulsif ou émotionnel, souvent lié à un besoin de renouveau, de clarté ou de recentrage.
+
+Douleur principale :  
+Flou intérieur, besoin de pause, sensation de nouveau départ, envie de ritualiser un moment personnel.
+
+Désir principal :  
+Se reconnecter à soi avec un support esthétique, simple et inspirant.
+
+Objection principale :  
+Crainte d’un contenu trop ésotérique, trop vague ou trop cliché.
+
+Angle émotionnel :  
+Créer un petit moment de clarté personnelle.
+
+Promesse possible :  
+Une capsule douce pour transformer la nouvelle lune en rituel simple d’introspection et d’intention.
+
+Bénéfice immédiat :  
+Disposer d’un cadre esthétique et guidé pour écrire, réfléchir et poser une intention.
+
+Bénéfice secondaire :  
+Créer un rendez-vous personnel récurrent.
+
+Niveau de prudence requis :  
+Modéré. Ne pas promettre manifestation, prédiction ou résultat externe garanti.
+
+## Scoring provisoire
+
+Filtres d’entrée : validés, mais hors univers alpha  
+Univers compatible : oui, univers bêta  
+Problème compréhensible : oui  
+Public identifiable : oui  
+Format capsule plausible : oui  
+Cohérence de marque minimale : oui  
+
+Tension commerciale réelle : 10 / 20  
+Désir actif de solution : 11 / 15  
+Capsulabilité concrète : 14 / 15  
+Promesse attractive mais maîtrisable : 13 / 15  
+Potentiel publicitaire direct : 7 / 10  
+Facilité de lancement : 10 / 10  
+Différenciation réelle : 6 / 10  
+Logique catalogue ou coffret : 4 / 5  
+
+Score principal provisoire : 75 / 100  
+Coefficient de prudence : -5  
+Justification du coefficient : sujet symbolique compatible avec la marque si la promesse reste introspective et sans résultat externe garanti.  
+
+Score final provisoire : 70 / 100
+
+## Offre
+
+Format prévu : Capsule numérique  
+Longueur estimée : courte  
+Livrables internes possibles :
+- rituel en étapes ;
+- pages de journaling ;
+- cartes d’intention ;
+- checklist ambiance ;
+- mini-calendrier lunaire si pertinent ;
+- questions introspectives.
+
+Prix envisagé : à définir  
+Potentiel de coffret : Bon  
+Coffret possible : Rituels doux, clarté intérieure, cycles personnels  
+Maillage interne possible:
+- journaling émotionnel ;
+- rituel pleine lune ;
+- cartes d’introspection.
+
+Priorité commerciale : Moyenne à élevée, mais non prioritaire avant parentalité
+
+## Production
+
+Structure prévue : à définir  
+Brief Claude : non créé  
+Éléments visuels nécessaires :
+- lavande grisée ;
+- papier texturé ;
+- lune discrète ;
+- bougie non dominante ;
+- carnet ;
+- cartes ;
+- éviter le style ésotérique cheap.
+
+Couverture : non créée  
+Mockups : non créés  
+Page Shopify : non rédigée  
+État de production : non démarré
+
+## Prochaine action
+
+Action :  
+Mettre en attente jusqu’à stabilisation de l’univers alpha parentalité, sauf décision de Captain d’ouvrir un test bêta ésotérisme plus tôt.
+
+Agent responsable : Chief_Structuration_Agent  
+But : éviter la fragmentation prématurée du catalogue.  
+Critère de sortie : décision explicite sur l’ouverture ou non de l’univers ésotérisme doux.
+
+---
+
+## 13. Shortlist actuelle
+
+## 13.1 Classement provisoire
+
+1. CAP-PAR-002, Détox écrans enfant, 89 / 100
+2. CAP-PAR-001, Intelligence émotionnelle enfant, 84 / 100
+3. CAP-ESO-001, Rituel nouvelle lune, 70 / 100
+4. CAP-PAR-003, Maison ADHD-friendly, 69 / 100
+
+## 13.2 Lecture stratégique
+
+CAP-PAR-002 et CAP-PAR-001 sont les candidates les plus fortes pour une première production dans l’univers alpha.
+
+CAP-PAR-002 ressort comme la candidate la plus directement testable : tension commerciale forte, problème immédiatement compréhensible, livrables concrets, potentiel publicitaire élevé et friction maîtrisable.
+
+CAP-PAR-001 possède une cohérence de marque très forte et une bonne densité de livrables, mais exige un cadrage prudent pour ne pas promettre la disparition des crises émotionnelles.
+
+CAP-PAR-003 conserve un potentiel réel, mais son score final baisse avec le nouveau coefficient de prudence. Le terme ADHD/TDAH peut rester commercialement attractif, mais il doit être immédiatement désamorcé par un sous-titre et une page produit centrés sur l’organisation domestique, les repères visuels et les routines, sans posture thérapeutique.
+
+CAP-ESO-001 obtient un score correct, mais reste hors priorité opérationnelle tant que l’univers alpha parentalité n’a pas produit un premier test. Son score ne doit pas être interprété comme une priorité immédiate.
+
+## 13.3 Décision actuelle
+
+Aucune capsule n’est encore validée comme première production.
+
+Décision recommandée à préparer :
+- choisir entre CAP-PAR-001 et CAP-PAR-002 comme première capsule test ;
+- retravailler CAP-PAR-003 sur son positionnement lexical ;
+- maintenir CAP-ESO-001 en veille active.
+
+---
+
+## 14. Prochaines actions globales
+
+## 14.1 Action n°1
+
+Créer le `Guide_Public_Cible_CoconDesSolutions`.
+
+But :
+- stabiliser la compréhension du public ;
+- cadrer les douleurs ;
+- définir le ton ;
+- éviter les promesses excessives.
+
+Responsable : Copywriting_Agent  
+Urgence : Élevée
+
+## 14.2 Action n°2
+
+Créer le `Guide_Artistique_CoconDesSolutions`.
+
+But :
+- stabiliser la direction visuelle ;
+- cadrer les images homepage ;
+- cadrer les couvertures de capsules ;
+- garantir une cohérence de marque.
+
+Responsable : Artistic_Lead_Agent  
+Urgence : Élevée
+
+## 14.3 Action n°3
+
+Produire une première proposition de titres pour CAP-PAR-001 et CAP-PAR-002.
+
+Responsable : Copywriting_Agent  
+Urgence : Élevée
+
+## 14.4 Action n°4
+
+Définir un style visuel de couverture pour les capsules parentalité.
+
+Responsable : Artistic_Lead_Agent  
+Urgence : Élevée
+
+## 14.5 Action n°5
+
+Arbitrer la première capsule à produire.
+
+Responsable : Captain  
+Appui : Chief_Structuration_Agent  
+Urgence : Élevée
+
+---
+
+## 15. Traçabilité opérationnelle
+
+La traçabilité opérationnelle doit rester courte.
+
+Elle doit indiquer :
+- date ;
+- agent ;
+- périmètre ;
+- action ;
+- impact.
+
+Elle ne doit pas contenir :
+- raisonnement complet ;
+- narration de session ;
+- justification longue ;
+- brouillon de décision.
+
+Format recommandé :
+
+- [Date] Agent  
+  Périmètre : section touchée  
+  Action : modification effectuée  
+  Impact : effet opérationnel
+
+---
+
+# Document Metadata & Changelog
+
+Changelog:
+  - 1.0.0 (2026-05-11, Chief_Structuration_Agent): Création initiale du Registre Central des Capsules, avec statuts, univers, modèle de fiche, scoring, règles de production intégrées, règles d’offre et de coffrets intégrées, premières fiches capsules et prochaines actions globales.
+
+Breaking Changes:
+  - None Breaking Changes:
+
+* None
