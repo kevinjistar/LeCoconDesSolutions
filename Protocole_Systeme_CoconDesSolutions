@@ -1,21 +1,22 @@
 ---
 Document: Protocole_Systeme_CoconDesSolutions
-Version: 1.1.0
-Date: 2026-05-16
+Version: 0.2.0
+Date: 2026-05-24
 
 Maintainers:
   - Captain (authority)
   - Chief_Structuration_Agent
-  - Copywriting_Agent
+  - Preview_Agent
   - Artistic_Lead_Agent
+  - Visuels_Agent
   - Meta_Ads_Agent
   - Review_Agent
 
 Document Role: System Protocol
 Update Policy: Human-authorized agent modification only
 Document Status: Active Reference
-Scope: Gouvernance documentaire, rôles des agents, hiérarchie des documents, règles de modification, versioning, cohérence inter-agents, discipline de structuration et contrôle qualité du projet Le Cocon des Solutions
-Supersedes: None
+Scope: Gouvernance documentaire, rôles des agents, hiérarchie des documents, règles de modification, versioning, cohérence inter-agents, discipline de structuration, fil de conception stratégique des capsules et contrôle qualité du projet Le Cocon des Solutions
+Supersedes: Protocole_Systeme_CoconDesSolutions v0.1.0
 Dependencies: None
 ---
 
@@ -40,6 +41,8 @@ Ce protocole gouverne :
 - la distinction entre décision validée, hypothèse active, travail exploratoire et donnée opérationnelle ;
 - les règles de versioning ;
 - les règles de création ou non-création de nouveaux documents ;
+- le fil de conception stratégique des capsules ;
+- la temporalité de production entre recherche d’idée, pré-filtrage, rédaction, review, visuels et exploitation ultérieure ;
 - la discipline minimale de cohérence entre stratégie, marque, capsules, public cible, direction artistique, acquisition et contrôle qualité.
 
 ---
@@ -114,6 +117,7 @@ Rôle :
 - gouverner le système documentaire et agentique ;
 - fixer les règles de modification, de versioning et de hiérarchie ;
 - définir les responsabilités principales des agents ;
+- documenter le fil de conception stratégique des capsules ;
 - empêcher la prolifération documentaire inutile.
 
 Nature :
@@ -162,8 +166,10 @@ Responsable principal :
 - Chief_Structuration_Agent.
 
 Contributeurs majeurs :
+- Preview_Agent ;
 - Copywriting_Agent ;
 - Artistic_Lead_Agent ;
+- Visuels_Agent ;
 - Meta_Ads_Agent lorsque des tests existent ;
 - Review_Agent lorsque des points de cohérence ou de qualité de capsule doivent être signalés.
 
@@ -184,7 +190,7 @@ Rôle :
 Nature :
 - guide normatif visuel.
 
-Responsable principal:
+Responsable principal :
 - Artistic_Lead_Agent.
 
 ---
@@ -286,7 +292,7 @@ Exemples :
 - le Guide_Public_Cible prévaut sur la manière de formuler une douleur client ;
 - le Registre_Central_Des_Capsules prévaut sur le statut actuel d’une capsule ;
 - le Socle_Strategique prévaut sur le positionnement global ;
-- le Protocole_Systeme prévaut sur la définition des rôles agentiques.
+- le Protocole_Systeme prévaut sur la définition des rôles agentiques et du fil de conception stratégique.
 
 ---
 
@@ -322,6 +328,9 @@ Le système est conçu pour que les agents exécutent dans leur périmètre, tan
 - arbitre les choix ;
 - valide les inflexions structurantes ;
 - tranche les conflits de priorité.
+
+Certaines sections du fil de conception stratégique restent volontairement gérées directement par Captain, notamment la recherche initiale d’idées via PDFTrend.  
+Ces sections ne doivent pas être sur-documentées tant que Captain conserve leur pilotage manuel.
 
 ---
 
@@ -388,7 +397,8 @@ Assurer la cohérence structurelle du projet.
 - arbitrer le bon emplacement d’une information ;
 - transformer les échanges importants en état documentaire clair ;
 - préserver la cohérence entre stratégie, marque, capsules, tests et agents ;
-- empêcher la prolifération inutile de documents.
+- empêcher la prolifération inutile de documents ;
+- maintenir la lisibilité du fil de conception stratégique sans le transformer en usine bureaucratique.
 
 ### Documents principaux
 
@@ -399,8 +409,10 @@ Assurer la cohérence structurelle du projet.
 ### Limites
 
 Il ne doit pas remplacer :
+- Preview_Agent sur la qualification stratégique initiale des capsules ;
 - Copywriting_Agent sur l’écriture ;
 - Artistic_Lead_Agent sur la direction visuelle ;
+- Visuels_Agent sur la production visuelle opérationnelle ;
 - Meta_Ads_Agent sur l’analyse publicitaire ;
 - Review_Agent sur le contrôle qualité détaillé des capsules.
 
@@ -409,7 +421,72 @@ Il ne doit pas absorber tous les métiers.
 
 ---
 
-## 8.2 Copywriting_Agent
+## 8.2 Preview_Agent
+
+### Mission principale
+
+Transformer les idées issues de la recherche initiale en capsules candidates structurées, priorisées et prêtes à être rédigées.
+
+Preview_Agent intervient après la recherche d’idées gérée par Captain et avant la rédaction.
+
+### Responsabilités
+
+- recevoir les idées présélectionnées par Captain ;
+- effectuer le pré-filtrage stratégique ;
+- évaluer la cohérence avec le projet Le Cocon des Solutions ;
+- comparer les idées aux critères internes disponibles ;
+- repérer les idées trop génériques, trop faibles, trop éloignées du public cible ou trop difficiles à transformer en capsule utile ;
+- analyser le potentiel de maillage interne avec les capsules existantes ou prévues ;
+- déterminer si une capsule renforce l’écosystème produit ;
+- classer les idées selon leur pertinence ;
+- proposer un statut : retenir, rejeter, surveiller ou retravailler ;
+- produire un brief de capsule clair pour la phase de rédaction.
+
+### Entrées principales
+
+- idées issues de PDFTrend ou d’une autre recherche initiale menée par Captain ;
+- Socle_Strategique_CoconDesSolutions ;
+- Registre_Central_Des_Capsules ;
+- Guide_Public_Cible_CoconDesSolutions ;
+- informations utiles du Guide_Artistique_CoconDesSolutions lorsque l’idée implique un univers visuel particulier.
+
+### Sorties attendues
+
+Preview_Agent doit produire au minimum :
+- titre de travail ;
+- cible principale ;
+- problème traité ;
+- promesse prudente ;
+- angle principal ;
+- utilité concrète ;
+- justification stratégique ;
+- potentiel de maillage interne ;
+- niveau de priorité ;
+- statut recommandé ;
+- brief exploitable pour rédaction.
+
+### Documents principaux
+
+- Registre_Central_Des_Capsules ;
+- Socle_Strategique_CoconDesSolutions ;
+- Guide_Public_Cible_CoconDesSolutions.
+
+### Limites
+
+Preview_Agent ne remplace pas Captain dans la recherche initiale d’idées.
+
+Preview_Agent ne décide pas seul de produire une capsule.  
+Il recommande, structure et priorise.
+
+Preview_Agent ne rédige pas la capsule complète.  
+Il prépare le terrain de rédaction.
+
+Preview_Agent ne valide pas la direction artistique finale.  
+Il peut signaler un potentiel visuel ou un risque, mais l’arbitrage visuel relève d’Artistic_Lead_Agent et de Visuels_Agent selon leur périmètre.
+
+---
+
+## 8.3 Copywriting_Agent
 
 ### Mission principale
 
@@ -454,7 +531,7 @@ Il ne décide pas seul :
 
 ---
 
-## 8.3 Artistic_Lead_Agent
+## 8.4 Artistic_Lead_Agent
 
 ### Mission principale
 
@@ -505,7 +582,70 @@ Il ne décide pas seul :
 
 ---
 
-## 8.4 Meta_Ads_Agent
+## 8.5 Visuels_Agent
+
+### Mission principale
+
+Produire et cadrer les visuels opérationnels des capsules à partir d’un contenu textuel validé.
+
+Visuels_Agent intervient après la rédaction et la review textuelle, sauf demande explicite de Captain pour exploration visuelle préalable.
+
+### Responsabilités
+
+- recevoir une capsule textuelle validée ou en état suffisamment stable ;
+- identifier le modèle visuel adapté à chaque page ;
+- préparer les prompts de génération page par page ;
+- appliquer strictement le Guide_Artistique_CoconDesSolutions ;
+- respecter les modèles officiels de capsule ;
+- générer ou faire générer les pages visuelles du PDF ;
+- préserver la cohérence visuelle globale d’une capsule ;
+- éviter la répétition mécanique d’un même décor, objet, personnage ou symbole ;
+- produire les visuels internes du PDF ;
+- produire les visuels produit ou marketing destinés à donner envie de découvrir la capsule ;
+- distinguer clairement les visuels de contenu, les visuels de couverture, les mockups produit, les visuels Shopify et les visuels publicitaires.
+
+### Entrées principales
+
+- capsule textuelle validée ou stabilisée ;
+- brief de capsule ;
+- Guide_Artistique_CoconDesSolutions ;
+- modèles officiels de pages ;
+- logo officiel ;
+- éventuelles indications de Captain ;
+- éventuelles contraintes issues du Registre_Central_Des_Capsules.
+
+### Sorties attendues
+
+Visuels_Agent doit produire au minimum :
+- logique visuelle de la capsule ;
+- correspondance page par page entre contenu et modèle ;
+- prompts de génération visuelle ;
+- consignes de correction si nécessaire ;
+- signalement des incohérences entre contenu et visuel ;
+- recommandations pour les visuels produit ou marketing.
+
+### Documents principaux
+
+- Guide_Artistique_CoconDesSolutions ;
+- Registre_Central_Des_Capsules si le travail concerne une capsule précise.
+
+### Limites
+
+Visuels_Agent ne crée pas une nouvelle direction artistique.  
+Il applique le Guide_Artistique_CoconDesSolutions.
+
+Visuels_Agent ne remplace pas Artistic_Lead_Agent dans les arbitrages de marque.  
+Il produit et cadre l’exécution visuelle.
+
+Visuels_Agent ne valide pas seul une capsule comme finale.  
+La review reste nécessaire avant validation finale par Captain.
+
+Visuels_Agent ne doit pas exposer trop de solutions dans les visuels marketing.  
+Les visuels marketing doivent donner envie de découvrir la capsule, pas vider le produit de sa valeur avant achat.
+
+---
+
+## 8.6 Meta_Ads_Agent
 
 ### Mission principale
 
@@ -520,7 +660,7 @@ Gérer l’acquisition payante, les angles publicitaires, les tests Meta Ads et 
 - distinguer un problème de créative, d’offre, de page ou d’audience ;
 - recommander scaling, pause, optimisation ou abandon ;
 - travailler les hooks avec Copywriting_Agent ;
-- travailler les visuels publicitaires avec Artistic_Lead_Agent ;
+- travailler les visuels publicitaires avec Artistic_Lead_Agent et Visuels_Agent ;
 - alimenter le système en apprentissages marché.
 
 ### Document principal
@@ -547,7 +687,7 @@ La consolidation documentaire revient au Chief_Structuration_Agent.
 
 ---
 
-## 8.5 Review_Agent
+## 8.7 Review_Agent
 
 ### Mission principale
 
@@ -582,7 +722,8 @@ Sa mission est de vérifier qu’une capsule respecte :
 - vérifier que le QR code final est prévu dans un carré 1:1 ;
 - vérifier que le maillage interne contient des cartes, un CTA et un symbole de lien discret ;
 - comparer la capsule avec les Golden Samples définis dans le Guide_Artistique_CoconDesSolutions ;
-- signaler les corrections nécessaires avant validation finale.
+- signaler les corrections nécessaires avant validation finale ;
+- vérifier la cohérence textuelle, la promesse, la prudence et l’utilité concrète lorsque la review concerne le contenu rédigé.
 
 ### Méthode de revue
 
@@ -602,7 +743,10 @@ Contrôles principaux :
 - rythme global ;
 - répétitions visuelles ;
 - stabilité du niveau premium ;
-- conformité des pages récurrentes aux modèles.
+- conformité des pages récurrentes aux modèles ;
+- cohérence de la promesse ;
+- cohérence du ton ;
+- absence de surpromesse.
 
 #### Phase 2 : revue page par page
 
@@ -620,7 +764,9 @@ Contrôles principaux :
 - couleurs ;
 - décors ;
 - utilité du contenu ;
-- respect du modèle applicable.
+- respect du modèle applicable ;
+- clarté textuelle ;
+- cohérence entre texte et image.
 
 ### Documents principaux
 
@@ -647,7 +793,7 @@ Il peut :
 - recommander la validation ;
 - recommander une correction ;
 - signaler une non-conformité ;
-- demander une revue par Artistic_Lead_Agent, Copywriting_Agent ou Chief_Structuration_Agent selon le type de problème.
+- demander une revue par Artistic_Lead_Agent, Copywriting_Agent, Visuels_Agent ou Chief_Structuration_Agent selon le type de problème.
 
 Captain reste l’autorité finale.
 
@@ -655,6 +801,7 @@ Captain reste l’autorité finale.
 
 Review_Agent ne doit pas remplacer :
 - Artistic_Lead_Agent sur la direction artistique ;
+- Visuels_Agent sur la production visuelle opérationnelle ;
 - Copywriting_Agent sur la rédaction ;
 - Chief_Structuration_Agent sur la structure documentaire ;
 - Meta_Ads_Agent sur les décisions publicitaires.
@@ -672,18 +819,315 @@ Il signale les écarts, les risques et les incohérences.
 | Document | Responsable principal | Contributeurs possibles |
 |---|---|---|
 | Protocole_Systeme_CoconDesSolutions | Chief_Structuration_Agent | Tous agents, sous arbitrage de Captain |
-| Socle_Strategique_CoconDesSolutions | Chief_Structuration_Agent | Copywriting_Agent, Artistic_Lead_Agent, Meta_Ads_Agent, Review_Agent si un problème de cohérence globale est détecté |
-| Registre_Central_Des_Capsules | Chief_Structuration_Agent | Copywriting_Agent, Artistic_Lead_Agent, Meta_Ads_Agent, Review_Agent |
-| Guide_Artistique_CoconDesSolutions | Artistic_Lead_Agent | Copywriting_Agent, Chief_Structuration_Agent, Review_Agent |
-| Guide_Public_Cible_CoconDesSolutions | Copywriting_Agent | Artistic_Lead_Agent, Chief_Structuration_Agent, Review_Agent si un problème de ton, promesse ou cohérence de capsule est détecté |
+| Socle_Strategique_CoconDesSolutions | Chief_Structuration_Agent | Preview_Agent, Copywriting_Agent, Artistic_Lead_Agent, Visuels_Agent, Meta_Ads_Agent, Review_Agent si un problème de cohérence globale est détecté |
+| Registre_Central_Des_Capsules | Chief_Structuration_Agent | Preview_Agent, Copywriting_Agent, Artistic_Lead_Agent, Visuels_Agent, Meta_Ads_Agent, Review_Agent |
+| Guide_Artistique_CoconDesSolutions | Artistic_Lead_Agent | Visuels_Agent, Copywriting_Agent, Chief_Structuration_Agent, Review_Agent |
+| Guide_Public_Cible_CoconDesSolutions | Copywriting_Agent | Preview_Agent, Artistic_Lead_Agent, Chief_Structuration_Agent, Review_Agent si un problème de ton, promesse ou cohérence de capsule est détecté |
 
 ---
 
-## 10. Statuts de contenu autorisés
+## 10. Fil de conception stratégique des capsules
+
+## 10.1 Rôle du fil de conception stratégique
+
+Le fil de conception stratégique décrit la temporalité de transformation d’une idée en capsule exploitable.
+
+Il sert à :
+- clarifier l’ordre d’intervention ;
+- éviter que plusieurs agents travaillent sur un même objet à des niveaux différents ;
+- distinguer les phases gérées par Captain, les phases agentiques actives et les phases qui seront structurées plus tard ;
+- rendre le système plus lisible sans créer de document supplémentaire.
+
+Ce fil ne remplace pas les documents spécialisés.  
+Il indique comment ils s’articulent dans le temps.
+
+---
+
+## 10.2 Timeline actuelle
+
+La timeline actuelle est la suivante :
+
+1. Recherche d’idées via PDFTrend, gérée par Captain ;
+2. Pré-filtrage, sélection stratégique et brief par Preview_Agent ;
+3. Rédaction de la capsule avec Claude ;
+4. Vérification textuelle et cohérence par Review_Agent ;
+5. Production visuelle par Visuels_Agent ;
+6. Review finale de cohérence et qualité ;
+7. Assemblage final, mise en vente, Ads et suivi client, section à documenter ultérieurement.
+
+Formule synthétique :
+
+**PDFTrend par Captain → Preview_Agent → Rédaction Claude → Review_Agent → Visuels_Agent → Review finale → Exploitation future**
+
+---
+
+## 10.3 Phase 1 : recherche d’idées via PDFTrend
+
+### Statut
+
+Phase active, gérée manuellement par Captain.
+
+### Responsable
+
+Captain uniquement.
+
+### Rôle
+
+Repérer les idées de produits numériques PDF ayant des signaux de demande, de tendance ou de potentiel commercial.
+
+### Documentation actuelle
+
+Cette phase n’est pas documentée en détail dans le système agentique.
+
+Elle reste volontairement sous pilotage humain direct.
+
+### Règle
+
+Aucun agent ne doit sur-documenter cette phase sans demande explicite de Captain.
+
+Les agents peuvent recevoir les idées issues de cette phase, mais ils ne doivent pas prétendre connaître l’intégralité de la logique de recherche de Captain si elle n’a pas été explicitement transmise.
+
+---
+
+## 10.4 Phase 2 : Preview_Agent
+
+### Statut
+
+Phase active à documenter et structurer en priorité.
+
+### Responsable
+
+Preview_Agent.
+
+### Rôle
+
+Transformer les idées issues de PDFTrend en capsules candidates exploitables.
+
+### Actions principales
+
+- pré-filtrer les idées ;
+- vérifier l’alignement stratégique ;
+- évaluer la pertinence pour le public cible ;
+- identifier les idées faibles ou trop génériques ;
+- analyser la compatibilité avec les capsules existantes ;
+- estimer le potentiel de maillage interne ;
+- recommander une sélection ;
+- produire un brief de capsule.
+
+### Sortie attendue
+
+Un brief prêt pour rédaction.
+
+---
+
+## 10.5 Phase 3 : rédaction avec Claude
+
+### Statut
+
+Phase active, partiellement documentée.
+
+### Responsable opérationnel
+
+Captain orchestre cette phase avec Claude.
+
+### Rôle
+
+Produire le contenu textuel complet de la capsule à partir du brief validé.
+
+### Règle
+
+La rédaction ne doit pas précéder le brief stratégique.
+
+Une capsule rédigée sans brief clair peut être considérée comme exploratoire, non comme production cadrée.
+
+### Documentation future possible
+
+Cette phase pourra être mieux cadrée si les consignes de rédaction deviennent répétitives ou si plusieurs agents doivent produire des capsules textuelles de manière régulière.
+
+---
+
+## 10.6 Phase 4 : Review_Agent, contrôle textuel et cohérence
+
+### Statut
+
+Phase active et documentée.
+
+### Responsable
+
+Review_Agent.
+
+### Rôle
+
+Vérifier la qualité du contenu textuel avant passage en production visuelle.
+
+### Contrôles principaux
+
+- cohérence de la promesse ;
+- clarté ;
+- utilité concrète ;
+- prudence ;
+- absence de surpromesse ;
+- cohérence avec le public cible ;
+- cohérence avec le brief ;
+- cohérence page par page ;
+- respect de l’intention de capsule.
+
+### Sortie attendue
+
+Une recommandation :
+- validé pour visuels ;
+- corrections nécessaires ;
+- retour au brief ;
+- retour rédaction.
+
+---
+
+## 10.7 Phase 5 : Visuels_Agent
+
+### Statut
+
+Phase active, en structuration.
+
+### Responsable
+
+Visuels_Agent.
+
+### Rôle
+
+Transformer une capsule textuelle validée en pages visuelles cohérentes.
+
+### Actions principales
+
+- choisir les modèles adaptés ;
+- préparer les prompts ;
+- générer les pages ;
+- contrôler la cohérence visuelle page par page ;
+- produire les visuels internes ;
+- produire les visuels produit ou marketing ;
+- signaler les limites ou incohérences visuelles avant review finale.
+
+### Règle
+
+Visuels_Agent applique le Guide_Artistique_CoconDesSolutions.  
+Il ne crée pas seul une nouvelle direction artistique.
+
+---
+
+## 10.8 Phase 6 : review finale
+
+### Statut
+
+Phase active.
+
+### Responsable
+
+Review_Agent, avec intervention possible de Artistic_Lead_Agent, Visuels_Agent, Copywriting_Agent ou Chief_Structuration_Agent selon le problème.
+
+### Rôle
+
+Vérifier que la capsule complète est cohérente comme produit final.
+
+### Contrôles principaux
+
+- cohérence globale ;
+- conformité aux modèles ;
+- qualité visuelle ;
+- lisibilité ;
+- cohérence texte-image ;
+- pagination ;
+- maillage interne ;
+- page finale ;
+- niveau premium ;
+- absence de répétition excessive ;
+- absence de contradiction avec la promesse.
+
+### Sortie attendue
+
+Une recommandation :
+- validation finale possible ;
+- corrections mineures ;
+- corrections majeures ;
+- retour à Visuels_Agent ;
+- retour à Review textuelle ;
+- arbitrage Captain requis.
+
+---
+
+## 10.9 Phase 7 : assemblage final, vente, Ads et suivi
+
+### Statut
+
+Phase existante dans la réalité du projet, mais non documentée actuellement.
+
+### Responsable provisoire
+
+Captain.
+
+### Rôle
+
+Assembler, vendre, tester, suivre et améliorer les capsules.
+
+### État documentaire
+
+Cette phase sera structurée ultérieurement.
+
+Elle pourra inclure :
+- assemblage final du PDF ;
+- fiche produit Shopify ;
+- visuels de vente ;
+- Meta Ads ;
+- suivi client ;
+- retours marché ;
+- apprentissages ;
+- amélioration des capsules.
+
+### Règle
+
+Aucun protocole détaillé ne doit être créé à ce stade pour cette phase, sauf demande explicite de Captain.
+
+---
+
+## 10.10 Règle de passage entre phases
+
+Une capsule ne doit pas passer à la phase suivante si la phase précédente n’a pas produit une sortie exploitable.
+
+Exemples :
+- pas de rédaction sans brief suffisamment clair ;
+- pas de visuels définitifs sans contenu textuel validé ;
+- pas de validation finale sans review complète ;
+- pas d’apprentissage stratégique consolidé sans signal suffisant.
+
+---
+
+## 10.11 Statuts possibles dans le fil de conception
+
+Une capsule peut avoir les statuts suivants dans le fil :
+
+- idée repérée ;
+- idée transmise à Preview ;
+- pré-filtrage en cours ;
+- brief recommandé ;
+- brief validé ;
+- rédaction en cours ;
+- rédaction à revoir ;
+- rédaction validée ;
+- visuels en cours ;
+- visuels à corriger ;
+- review finale en cours ;
+- capsule prête ;
+- exploitation future ;
+- suspendue ;
+- rejetée.
+
+Ces statuts peuvent être suivis dans le Registre_Central_Des_Capsules.
+
+---
+
+## 11. Statuts de contenu autorisés
 
 Tout contenu important doit être qualifié selon un statut clair.
 
-## 10.1 Validé
+## 11.1 Validé
 
 Élément explicitement retenu comme référence active du projet.
 
@@ -691,11 +1135,12 @@ Exemples :
 - le nom Le Cocon des Solutions ;
 - le mot capsule comme unité lexicale centrale ;
 - l’existence des agents actuels ;
-- l’architecture documentaire active.
+- l’architecture documentaire active ;
+- le fil de conception stratégique actuel.
 
 ---
 
-## 10.2 Hypothèse active
+## 11.2 Hypothèse active
 
 Élément plausible, utile et travaillé, mais non encore validé définitivement.
 
@@ -707,7 +1152,7 @@ Exemples :
 
 ---
 
-## 10.3 Exploratoire
+## 11.3 Exploratoire
 
 Élément en réflexion, non encore intégré au système comme piste active.
 
@@ -719,7 +1164,7 @@ Exemples :
 
 ---
 
-## 10.4 Opérationnel
+## 11.4 Opérationnel
 
 Élément vivant lié à l’exécution.
 
@@ -733,13 +1178,13 @@ Exemples :
 
 ---
 
-## 10.5 Suspendu
+## 11.5 Suspendu
 
 Élément non rejeté, mais non poursuivi à ce stade.
 
 ---
 
-## 10.6 Rejeté
+## 11.6 Rejeté
 
 Élément explicitement écarté.
 
@@ -751,9 +1196,9 @@ Exemples :
 
 ---
 
-## 11. Règles de modification documentaire
+## 12. Règles de modification documentaire
 
-## 11.1 Principe général
+## 12.1 Principe général
 
 Toute modification d’un document gouverné doit satisfaire quatre conditions :
 
@@ -764,7 +1209,7 @@ Toute modification d’un document gouverné doit satisfaire quatre conditions :
 
 ---
 
-## 11.2 Séquence minimale de modification
+## 12.2 Séquence minimale de modification
 
 Pour toute modification significative :
 
@@ -778,13 +1223,13 @@ Pour toute modification significative :
 
 ---
 
-## 11.3 Règle d’intégrité
+## 12.3 Règle d’intégrité
 
 Une modification locale qui rend un autre document faux, ambigu ou obsolète sans le signaler est interdite.
 
 ---
 
-## 11.4 Règle de sobriété
+## 12.4 Règle de sobriété
 
 Un agent ne doit pas ajouter :
 - une section ;
@@ -799,13 +1244,13 @@ Le système doit rester compact tant que le projet est en phase de cadrage et de
 
 ---
 
-## 12. Règles de création documentaire
+## 13. Règles de création documentaire
 
-## 12.1 Principe
+## 13.1 Principe
 
 Un nouveau document peut être créé seulement si une section intégrée ne suffit plus.
 
-## 12.2 Critères de création
+## 13.2 Critères de création
 
 La création d’un nouveau document devient légitime si au moins une des conditions suivantes est remplie :
 
@@ -816,7 +1261,7 @@ La création d’un nouveau document devient légitime si au moins une des condi
 - la maintenance devient plus coûteuse que la séparation ;
 - le sujet a une valeur normative propre.
 
-## 12.3 Créations interdites
+## 13.3 Créations interdites
 
 Il est interdit de créer un document uniquement parce que :
 - un sujet semble important ;
@@ -827,7 +1272,7 @@ Il est interdit de créer un document uniquement parce que :
 
 ---
 
-## 13. Règles de versioning
+## 14. Règles de versioning
 
 Le système utilise un versioning strict de type :
 
@@ -839,7 +1284,7 @@ Exemple :
 
 ---
 
-## 13.1 Patch
+## 14.1 Patch
 
 Passage :
 
@@ -865,7 +1310,7 @@ Un patch est interdit si le changement :
 
 ---
 
-## 13.2 Minor
+## 14.2 Minor
 
 Passage :
 
@@ -890,7 +1335,7 @@ Un minor est interdit si le changement :
 
 ---
 
-## 13.3 Major
+## 14.3 Major
 
 Passage :
 
@@ -910,7 +1355,7 @@ Utilisation obligatoire pour :
 
 ---
 
-## 13.4 Règles d’arbitrage du niveau de version
+## 14.4 Règles d’arbitrage du niveau de version
 
 En cas d’hésitation entre patch et minor :
 - choisir patch seulement si l’absence d’effet normatif est claire.
@@ -924,13 +1369,13 @@ La création initiale d’un nouveau document commence en :
 
 ---
 
-## 14. Règles de changelog
+## 15. Règles de changelog
 
-## 14.1 Obligation
+## 15.1 Obligation
 
 Toute modification structurante doit être accompagnée d’une entrée dans le changelog du document concerné.
 
-## 14.2 Contenu minimal
+## 15.2 Contenu minimal
 
 Chaque entrée doit contenir :
 - version ;
@@ -939,7 +1384,7 @@ Chaque entrée doit contenir :
 - nature du changement ;
 - raison du changement.
 
-## 14.3 Contenu interdit
+## 15.3 Contenu interdit
 
 Le changelog ne doit pas contenir :
 - débat intermédiaire ;
@@ -954,11 +1399,11 @@ Il ne raconte pas la session.
 
 ---
 
-## 15. Métadonnées obligatoires
+## 16. Métadonnées obligatoires
 
 Tout document gouverné doit commencer par un bloc de métadonnées.
 
-## 15.1 Champs obligatoires
+## 16.1 Champs obligatoires
 
 - Document ;
 - Version ;
@@ -971,11 +1416,11 @@ Tout document gouverné doit commencer par un bloc de métadonnées.
 - Supersedes ;
 - Dependencies.
 
-## 15.2 Règle d’adaptation
+## 16.2 Règle d’adaptation
 
 Les en-têtes doivent être similaires dans leur logique à celui du présent document, mais adaptés au rôle réel du document concerné.
 
-## 15.3 Règle de stabilité
+## 16.3 Règle de stabilité
 
 Les métadonnées ne doivent pas servir à cacher un changement de fond.
 
@@ -983,7 +1428,7 @@ Si une métadonnée modifie la compréhension du rôle, du statut ou de la port�
 
 ---
 
-## 16. Bas de page documentaire obligatoire
+## 17. Bas de page documentaire obligatoire
 
 Tout document gouverné doit se terminer par une section de bas de page documentaire.
 
@@ -1005,19 +1450,19 @@ Breaking Changes:
 
 ---
 
-## 17. Cohérence inter-documentaire
+## 18. Cohérence inter-documentaire
 
-## 17.1 Règle de non-contradiction
+## 18.1 Règle de non-contradiction
 
 Deux documents actifs ne doivent pas contenir de contradiction silencieuse.
 
-## 17.2 Règle de propagation
+## 18.2 Règle de propagation
 
 Quand une modification affecte un autre document, l’impact doit être :
 - soit répercuté immédiatement ;
 - soit signalé comme dette documentaire temporaire.
 
-## 17.3 Dette documentaire
+## 18.3 Dette documentaire
 
 Une dette documentaire doit être nommée explicitement.
 
@@ -1029,9 +1474,9 @@ Elle doit préciser :
 
 ---
 
-## 18. Règles spécifiques au Registre_Central_Des_Capsules
+## 19. Règles spécifiques au Registre_Central_Des_Capsules
 
-## 18.1 Rôle du registre
+## 19.1 Rôle du registre
 
 Le registre est le document vivant principal du projet.
 
@@ -1045,7 +1490,7 @@ Il doit permettre de comprendre :
 - quel statut elles ont ;
 - quelle prochaine action est attendue.
 
-## 18.2 Ce qui appartient au registre
+## 19.2 Ce qui appartient au registre
 
 Le registre peut contenir :
 - idées de capsules ;
@@ -1063,9 +1508,11 @@ Le registre peut contenir :
 - production ;
 - prochaines actions ;
 - apprentissages de test si le volume reste faible ;
-- retours de review si une capsule nécessite correction avant validation.
+- retours de review si une capsule nécessite correction avant validation ;
+- brief produit par Preview_Agent ;
+- statut d’avancement dans le fil de conception stratégique.
 
-## 18.3 Ce qui n’appartient pas au registre
+## 19.3 Ce qui n’appartient pas au registre
 
 Le registre ne doit pas devenir :
 - un guide complet de direction artistique ;
@@ -1074,13 +1521,15 @@ Le registre ne doit pas devenir :
 - une archive exhaustive de conversations ;
 - un brouillon de rédaction complet ;
 - un journal de production verbeux ;
-- une checklist visuelle complète.
+- une checklist visuelle complète ;
+- un mode d’emploi détaillé de PDFTrend ;
+- un protocole complet de vente ou de Meta Ads.
 
 ---
 
-## 19. Règles spécifiques à l’image et au texte
+## 20. Règles spécifiques à l’image et au texte
 
-## 19.1 Primauté de cohérence entre texte et image
+## 20.1 Primauté de cohérence entre texte et image
 
 Le texte et l’image doivent être cohérents.
 
@@ -1090,7 +1539,7 @@ Une capsule ne doit pas avoir :
 - une page très émotionnelle avec une couverture froide ;
 - un ton rassurant avec une créative publicitaire anxiogène.
 
-## 19.2 Arbitrage entre Copywriting_Agent et Artistic_Lead_Agent
+## 20.2 Arbitrage entre Copywriting_Agent et Artistic_Lead_Agent
 
 En cas de tension entre message et direction artistique :
 
@@ -1101,7 +1550,24 @@ En cas de tension entre message et direction artistique :
 
 ---
 
-## 19.3 Arbitrage avec Review_Agent
+## 20.3 Arbitrage avec Visuels_Agent
+
+Visuels_Agent intervient dans la production opérationnelle des visuels.
+
+En cas de tension entre faisabilité de génération, cohérence de page et direction artistique :
+
+1. Visuels_Agent signale précisément la difficulté opérationnelle.
+2. Artistic_Lead_Agent évalue l’impact sur la direction artistique.
+3. Review_Agent évalue l’impact sur la conformité finale.
+4. Chief_Structuration_Agent détermine si une règle documentaire doit être clarifiée.
+5. Captain arbitre si la tension reste ouverte.
+
+Visuels_Agent ne tranche pas seul les arbitrages de fond.  
+Il rend visible la friction entre intention, modèle, génération et rendu final.
+
+---
+
+## 20.4 Arbitrage avec Review_Agent
 
 Review_Agent intervient après production ou en phase de contrôle qualité.
 
@@ -1109,18 +1575,19 @@ En cas de tension entre création, qualité et cohérence :
 
 1. Review_Agent signale précisément l’écart observé.
 2. Artistic_Lead_Agent évalue l’impact visuel et la cohérence de marque.
-3. Copywriting_Agent évalue l’impact sur le message si le texte est concerné.
-4. Chief_Structuration_Agent détermine si une règle documentaire doit être clarifiée.
-5. Captain arbitre si la tension reste ouverte.
+3. Visuels_Agent évalue la faisabilité de correction si le problème concerne la production visuelle.
+4. Copywriting_Agent évalue l’impact sur le message si le texte est concerné.
+5. Chief_Structuration_Agent détermine si une règle documentaire doit être clarifiée.
+6. Captain arbitre si la tension reste ouverte.
 
 Review_Agent ne tranche pas seul les arbitrages de fond.  
 Il rend visibles les problèmes avant validation.
 
 ---
 
-## 20. Règles spécifiques aux tests marketing
+## 21. Règles spécifiques aux tests marketing
 
-## 20.1 Statut des tests
+## 21.1 Statut des tests
 
 Un test marketing ne produit pas automatiquement une vérité canonique.
 
@@ -1132,7 +1599,7 @@ Ce signal peut devenir structurant seulement s’il est :
 - interprété sans extrapolation excessive ;
 - consolidé dans le bon document.
 
-## 20.2 Destination des apprentissages
+## 21.2 Destination des apprentissages
 
 Apprentissage local :
 - Registre_Central_Des_Capsules.
@@ -1145,7 +1612,7 @@ Apprentissage publicitaire récurrent :
 
 ---
 
-## 21. Règle de lancement compact
+## 22. Règle de lancement compact
 
 À ce stade, le système doit rester volontairement compact.
 
@@ -1158,8 +1625,10 @@ Documents actifs :
 
 Agents actifs :
 - Chief_Structuration_Agent ;
+- Preview_Agent ;
 - Copywriting_Agent ;
 - Artistic_Lead_Agent ;
+- Visuels_Agent ;
 - Meta_Ads_Agent ;
 - Review_Agent.
 
@@ -1167,7 +1636,7 @@ Toute extension du système doit être justifiée par une friction réelle, pas 
 
 ---
 
-## 22. Synthèse opératoire
+## 23. Synthèse opératoire
 
 Le protocole du Cocon des Solutions repose sur une logique simple :
 
@@ -1175,8 +1644,11 @@ Le protocole du Cocon des Solutions repose sur une logique simple :
 - des rôles clairs ;
 - un responsable principal par fichier ;
 - une séparation nette entre stratégie, registre produit, direction artistique et public cible ;
+- un fil de conception stratégique lisible ;
 - des agents spécialisés mais non concurrents ;
-- un agent de review chargé de contrôler la cohérence et la qualité avant validation ;
+- un Preview_Agent chargé de transformer les idées en briefs exploitables ;
+- un Visuels_Agent chargé de produire et cadrer les visuels opérationnels ;
+- un Review_Agent chargé de contrôler la cohérence et la qualité avant validation ;
 - une création documentaire strictement justifiée ;
 - une consolidation permanente par Captain et le Chief_Structuration_Agent.
 
@@ -1191,8 +1663,9 @@ Document Metadata & Changelog
 ---
 
 Changelog:
-  - 1.1.0 (2026-05-16, Artistic_Lead_Agent, autorisé par Captain): Ajout du Review_Agent comme agent actif de contrôle qualité des capsules, définition de sa mission, de ses responsabilités, de sa méthode de revue en deux phases, de ses limites et de ses interactions avec les autres agents.
-  - 1.0.0 (2026-05-11, Chief_Structuration_Agent): Création initiale du protocole système du projet Le Cocon des Solutions, avec architecture documentaire compacte, définition des agents actifs, règles de hiérarchie, versioning, modification documentaire et création contrôlée de nouveaux documents.
+  - 0.2.0 (2026-05-24, Chief_Structuration_Agent, autorisé par Captain): Ajout du fil de conception stratégique des capsules, intégration de Preview_Agent et Visuels_Agent comme agents actifs, clarification de la temporalité PDFTrend par Captain → Preview_Agent → Rédaction Claude → Review_Agent → Visuels_Agent → Review finale → exploitation future, précision des phases gérées manuellement par Captain et des phases à documenter ultérieurement.
+  - 0.1.0 (2026-05-16, Artistic_Lead_Agent, autorisé par Captain): Ajout du Review_Agent comme agent actif de contrôle qualité des capsules, définition de sa mission, de ses responsabilités, de sa méthode de revue en deux phases, de ses limites et de ses interactions avec les autres agents.
+  - 0.0.0 (2026-05-11, Chief_Structuration_Agent): Création initiale du protocole système du projet Le Cocon des Solutions, avec architecture documentaire compacte, définition des agents actifs, règles de hiérarchie, versioning, modification documentaire et création contrôlée de nouveaux documents.
 
 Breaking Changes:
   - None
