@@ -1,0 +1,3010 @@
+Document: Guide_Artistique_CoconDesSolutions
+Version: 1.1.2
+Date: 2026-05-16
+Maintainers:
+  - Captain (authority)
+  - Artistic_Lead_Agent
+  - Chief_Structuration_Agent
+  - Copywriting_Agent
+  - Meta_Ads_Agent
+Document Role: Artistic and Visual Identity Guide
+Update Policy: Human-authorized agent modification only
+Document Status: Active Reference
+Scope: Direction artistique, identité visuelle, palette, typographies, images, génération visuelle, couvertures de capsules, mockups, cohérence Shopify, codes visuels par univers, pages internes, gabarits visuels, maillage interne, QR code, structure premium des capsules, golden sample, checklist qualité, protocole de review visuelle et supervision globale de l’image de marque du projet Le Cocon des Solutions
+Supersedes: Version 1.1.1
+Dependencies:
+  - Protocole_Systeme_CoconDesSolutions
+  - Socle_Strategique_CoconDesSolutions
+  - Guide_Public_Cible_CoconDesSolutions
+  - Registre_Central_Des_Capsules
+---
+# Guide artistique du projet Le Cocon des Solutions
+## 1. Préambule
+Ce document définit la direction artistique du projet **Le Cocon des Solutions**.
+Il a pour rôle de cadrer :
+- l’identité visuelle globale ;
+- la palette ;
+- les typographies ;
+- le style des images ;
+- les règles de génération visuelle ;
+- les couvertures de capsules ;
+- les pages internes de capsules ;
+- les gabarits visuels officiels ;
+- les mockups ;
+- les codes visuels par univers ;
+- la cohérence de la boutique Shopify ;
+- le ressenti de marque ;
+- la validation qualité des capsules ;
+- les erreurs visuelles à éviter ;
+- les golden samples de référence.
+Il ne définit pas :
+- le public cible en détail ;
+- les douleurs client ;
+- les promesses commerciales ;
+- les titres des capsules ;
+- la stratégie publicitaire ;
+- le scoring produit ;
+- la structure documentaire du système.
+Ces éléments appartiennent aux documents spécialisés du projet.
+Le rôle central de ce document est simple :
+**garantir que Le Cocon des Solutions soit immédiatement perçu comme une marque douce, claire, fiable, esthétique, premium et utile.**
+---
+## 2. Rôle exact de la direction artistique
+La direction artistique ne doit pas être traitée comme une couche décorative.
+Elle doit soutenir :
+- la confiance ;
+- la clarté ;
+- la différenciation ;
+- l’émotion ;
+- la valeur perçue ;
+- la cohérence entre univers ;
+- la conversion commerciale ;
+- la reconnaissance de marque.
+Le Cocon des Solutions vend des capsules numériques.  
+Le produit est immatériel.  
+La direction artistique doit donc rendre la valeur visible.
+Elle doit faire sentir que la capsule est :
+- utile ;
+- soignée ;
+- rassurante ;
+- simple à utiliser ;
+- digne d’achat ;
+- cohérente avec la promesse de marque ;
+- premium sans être froide ;
+- douce sans être floue.
+---
+## 3. Principe artistique directeur
+La direction artistique repose sur l’idée suivante :
+**un refuge organisé où les problèmes du quotidien deviennent des solutions claires, douces et prêtes à ouvrir.**
+Le ressenti recherché est celui d’un espace calme, lumineux et structuré.
+La marque doit évoquer :
+- une maison calme ;
+- une table de travail douce ;
+- des fiches bien rangées ;
+- des carnets ;
+- des cartes ;
+- des outils simples ;
+- une lumière naturelle ;
+- des matières chaudes ;
+- une organisation sans rigidité ;
+- une clarté non froide ;
+- une sensation premium, soignée et accessible.
+La marque ne doit pas ressembler à :
+- une boutique de PDF génériques ;
+- une marque de développement personnel vague ;
+- un blog parental sucré ;
+- une plateforme de formation froide ;
+- une marque ésotérique cliché ;
+- une collection Canva standardisée ;
+- une boutique trop corporate ;
+- une marque thérapeutique ou médicale ;
+- un assemblage de jolies pages sans système.
+Formule directrice :
+**Doux dans la forme, précis dans le fond.**
+---
+## 4. Territoire visuel
+## 4.1 Mots-clés visuels
+La marque doit être associée aux mots suivants :
+- cocon ;
+- clarté ;
+- calme ;
+- lumière ;
+- papier ;
+- carte ;
+- capsule ;
+- maison ;
+- rituel ;
+- douceur ;
+- méthode ;
+- chaleur ;
+- simplicité ;
+- organisation ;
+- respiration ;
+- soin ;
+- repère ;
+- chemin ;
+- premium ;
+- précision ;
+- objet numérique soigné.
+## 4.2 Sensation globale
+L’utilisateur doit sentir :
+- “Je peux respirer.”
+- “Ce n’est pas compliqué.”
+- “C’est sérieux, mais pas froid.”
+- “C’est doux, mais pas flou.”
+- “Je vais trouver quelque chose de clair.”
+- “La marque comprend mon problème sans me juger.”
+- “Ce que j’achète a été pensé, structuré et soigné.”
+## 4.3 Métaphore visuelle centrale
+La métaphore centrale est :
+**une maison de petites solutions rangées dans des capsules.**
+Chaque capsule est comme une petite boîte de clarté.  
+Elle contient une réponse ciblée, prête à être ouverte.
+---
+## 5. Palette principale
+La palette doit rester chaude, douce et structurée.
+Le site internet et les capsules peuvent partager certaines couleurs, mais ils n’ont pas exactement le même contexte d’usage.
+Le site doit favoriser :
+- la lisibilité ;
+- la navigation ;
+- la conversion ;
+- les CTA ;
+- la structure commerciale.
+Les capsules doivent favoriser :
+- le confort de lecture ;
+- la douceur ;
+- la perception premium ;
+- la stabilité visuelle ;
+- la clarté opérationnelle.
+Il ne faut pas forcer une harmonisation complète si elle affaiblit l’un des supports.
+## 5.1 Couleurs principales du site
+### Fond principal
+`#FFFAF7`
+Rôle :
+- fond ivoire chaud ;
+- base générale de la boutique ;
+- sensation douce, lumineuse et premium ;
+- support principal des pages Shopify ;
+- fond officiel également retenu pour les capsules.
+Usage :
+- arrière-plan général ;
+- sections principales ;
+- zones longues de lecture ;
+- pages capsules.
+### Texte principal du site
+`#5A2418`
+Rôle :
+- brun profond ;
+- crédibilité ;
+- chaleur ;
+- alternative plus douce au noir ;
+- couleur structurante du site.
+Usage :
+- titres du site ;
+- menus ;
+- textes importants ;
+- textes de boutons secondaires ;
+- éléments de navigation.
+Règle :
+`#5A2418` est principalement associé au site internet.  
+Il peut être utilisé dans les capsules lorsque le contraste ou la cohérence visuelle le justifie, mais il ne doit pas être forcé si une couleur plus adaptée au rendu capsule fonctionne mieux.
+### Texte secondaire du site
+`#5A2418CC`
+Rôle :
+- brun principal avec transparence ;
+- lecture plus douce ;
+- hiérarchie secondaire.
+Usage :
+- paragraphes ;
+- descriptions ;
+- microtextes ;
+- textes explicatifs ;
+- texte courant des capsules si le rendu reste lisible et cohérent.
+### Accent principal du site
+`#D95A3A`
+Rôle :
+- corail doux ;
+- énergie commerciale ;
+- CTA ;
+- appels visuels ;
+- touches de chaleur.
+Usage :
+- boutons principaux ;
+- liens au survol ;
+- éléments de mise en avant ;
+- détails graphiques ;
+- badges promotionnels sobres.
+Règle :
+Le corail doit être une ponctuation, pas une couleur dominante.
+Dans les capsules, `#D95A3A` doit être utilisé avec prudence.  
+Il est principalement une couleur d’action et de CTA pour le site internet.
+### Bordures douces du site
+`#5A241833`
+Rôle :
+- séparation légère ;
+- structure discrète ;
+- élégance.
+Usage :
+- cartes produits ;
+- blocs capsules ;
+- formulaires ;
+- encadrements ;
+- séparateurs.
+### Ombre douce
+`#0000001A`
+Rôle :
+- profondeur légère ;
+- mise en relief sans brutalité.
+Usage :
+- cartes ;
+- mockups ;
+- éléments flottants ;
+- sections produits.
+Règle :
+Ne pas utiliser de noir pur en ombre massive.
+## 5.2 Palette spécifique des capsules
+Les capsules utilisent une hiérarchie chromatique légèrement différente du site, afin de préserver leur douceur de lecture et leur rendu premium.
+Palette capsule recommandée :
+Arrière-plan :
+`#FFFAF7`
+Titres principaux :
+`#313131`
+Sous-titres et accents doux :
+`#B78D6F`
+Pictogrammes :
+`#8B8664`
+Pastilles numérotées internes :
+`#8B8664`
+Texte courant :
+`#5A2418CC`
+Bordures douces :
+`#8B866433`
+Traits décoratifs :
+`#B78D6F` ou `#8B8664`, selon le niveau de discrétion souhaité
+Cœurs et petits accents :
+`#B78D6F`
+Numérotation de page en bas :
+pastille `#8B8664`, numéro `#FFFFFF`, traits fins `#8B8664`
+Règle sur `#8B8664` :
+`#8B8664` est une couleur forte de l’univers capsule.  
+Elle fonctionne particulièrement bien pour :
+- pictogrammes ;
+- pastilles ;
+- numéros ;
+- petits repères ;
+- éléments fonctionnels doux ;
+- éléments de structure secondaires.
+Règle sur `#B78D6F` :
+`#B78D6F` est une couleur d’accent chaleureux.  
+Elle fonctionne particulièrement bien pour :
+- sous-titres ;
+- parties colorées des titres ;
+- petits cœurs ;
+- traits décoratifs ;
+- mots doux ;
+- accents éditoriaux.
+Règle sur les alternances :
+Les couleurs ne doivent pas alterner mécaniquement sans fonction claire.  
+En particulier, les pastilles de numérotation interne ne doivent pas alterner systématiquement entre `#B78D6F` et `#8B8664`.
+Par défaut :
+- pastilles numérotées internes : `#8B8664` ;
+- accents doux : `#B78D6F` ;
+- pagination basse : pastille `#8B8664`, numéro `#FFFFFF`, traits `#8B8664`.
+---
+## 6. Couleurs complémentaires par univers
+Chaque univers peut avoir une couleur secondaire, mais l’identité globale doit rester unifiée par le fond ivoire, le brun, les accents doux et la logique premium.
+## 6.1 Parentalité
+`#B8C7AE`
+Ressenti :
+- sauge doux ;
+- calme ;
+- maison ;
+- stabilité ;
+- respiration.
+Usage :
+- couvertures parentalité ;
+- pictogrammes ;
+- fonds secondaires ;
+- badges d’univers ;
+- fiches enfants / parents.
+## 6.2 Organisation
+`#B8C7D9`
+Ressenti :
+- bleu brume ;
+- ordre ;
+- clarté ;
+- méthode ;
+- espace mental.
+Usage :
+- capsules organisation ;
+- tableaux ;
+- checklists ;
+- calendriers ;
+- routines.
+## 6.3 Émotions
+`#D9A08F`
+Ressenti :
+- rose argile ;
+- chaleur émotionnelle ;
+- intériorité ;
+- douceur humaine.
+Usage :
+- capsules émotions ;
+- journaling ;
+- introspection ;
+- limites personnelles ;
+- charge mentale.
+## 6.4 Ésotérisme doux
+`#DED0F0`
+Ressenti :
+- lavande grisée ;
+- intuition ;
+- symbolique ;
+- calme nocturne ;
+- mystère doux.
+Usage :
+- capsules ésotérisme ;
+- cartes ;
+- rituels ;
+- journaling lunaire ;
+- symboles subtils.
+Règle :
+Éviter tout effet “ésotérisme cheap” : violet saturé, doré excessif, étoiles partout, boule de cristal, mains mystiques cliché.
+## 6.5 Accent doré discret
+`#C6A15B`
+Ressenti :
+- touche précieuse ;
+- détail éditorial ;
+- chaleur.
+Usage :
+- micro-détails ;
+- filets ;
+- pictogrammes fins ;
+- accents sur couvertures.
+Règle :
+Le doré ne doit jamais devenir dominant.
+## 6.6 Fond secondaire doux
+`#F3E8E2`
+Ressenti :
+- chaleur ;
+- papier ;
+- douceur ;
+- transition.
+Usage :
+- blocs secondaires ;
+- sections philosophie ;
+- encarts ;
+- cartes d’univers.
+---
+## 7. Règles d’usage de la couleur
+## 7.1 Couleurs dominantes
+La hiérarchie de dominance du site doit être :
+1. ivoire ;
+2. brun ;
+3. couleurs d’univers ;
+4. corail ;
+5. doré discret.
+La hiérarchie de dominance des capsules doit être :
+1. ivoire `#FFFAF7` ;
+2. titres foncés `#313131` ;
+3. texte courant doux ;
+4. sauge doux `#8B8664` ;
+5. accent chaleureux `#B78D6F` ;
+6. corail très ponctuel si nécessaire.
+Le corail ne doit pas dominer la page.
+## 7.2 Contraste
+Le texte doit rester lisible.
+Sur le site, le brun `#5A2418` est préféré au noir.  
+Dans les capsules, les titres principaux peuvent utiliser `#313131` si cela produit un rendu plus premium et plus lisible.
+Les textes longs doivent éviter les contrastes trop agressifs.
+## 7.3 Aplats
+Les grands aplats sont autorisés, mais doivent rester doux.
+Éviter :
+- aplats rouge vif ;
+- aplats orange saturé ;
+- aplats violets forts ;
+- fonds trop sombres sur des sections longues ;
+- alternances décoratives sans fonction.
+## 7.4 CTA
+Le bouton principal du site utilise :
+- arrière-plan : `#D95A3A`
+- texte : `#FFFFFF`
+- bordure : `#D95A3A`
+- hover : `#5A2418`
+Les CTA doivent être visibles sans casser la douceur globale.
+Dans les capsules, les CTA internes doivent rester plus discrets que les CTA e-commerce du site.
+---
+## 8. Typographies
+## 8.1 Typographies validées
+La combinaison typographique validée est :
+- titres : **Fraunces Bold** ou **Fraunces SemiBold** ;
+- sous-titres : **Nunito Sans SemiBold** ;
+- corps : **Nunito Sans Regular** ;
+- accentuation émotionnelle : **Fraunces Italic** ;
+- boutons et CTA : **Nunito Sans Bold**.
+Toute police manuscrite ou script utilisée pour les citations, phrases prêtes à dire ou accents de couverture doit être validée par cohérence de gamme. Elle doit rester lisible, douce et non enfantine.
+## 8.2 Rôle de Fraunces
+Fraunces porte :
+- l’éditorial ;
+- la chaleur ;
+- l’identité ;
+- le caractère ;
+- la dimension sensible de la marque ;
+- la perception premium.
+Usage :
+- logo ;
+- grands titres ;
+- titres de section ;
+- citations courtes ;
+- phrases émotionnelles ;
+- couvertures de capsules.
+## 8.3 Rôle de Nunito Sans
+Nunito Sans porte :
+- la lisibilité ;
+- la simplicité ;
+- l’accessibilité ;
+- la structure ;
+- l’usage pratique.
+Usage :
+- corps de texte ;
+- sous-titres ;
+- menus ;
+- boutons ;
+- fiches ;
+- checklists ;
+- descriptions produits.
+## 8.4 Rôles typographiques des capsules
+Les polices doivent être utilisées selon le rôle du texte, pas selon une préférence décorative page par page.
+### 8.4.1 Grand titre de page
+Usage :
+- titre principal d’une page ;
+- nom d’une fiche ;
+- grande section.
+Style :
+- serif élégante ;
+- forte présence ;
+- capitale ou semi-capitale selon le rendu ;
+- interlettrage maîtrisé.
+Rôle :
+- poser la structure ;
+- donner l’effet premium ;
+- créer une hiérarchie claire.
+### 8.4.2 Partie accentuée d’un titre
+Usage :
+- deuxième ligne d’un titre ;
+- mot émotionnel ;
+- partie importante à faire ressortir ;
+- tension ou bénéfice central.
+Style :
+- couleur accent `#B78D6F` ;
+- parfois manuscrit si le mot est court et émotionnel ;
+- sinon serif colorée.
+Rôle :
+- guider le regard ;
+- apporter chaleur ;
+- distinguer deux niveaux de sens.
+Exemples :
+- “FICHE DE POCHE” en foncé, “LES 5 PHRASES À GARDER AVEC SOI” en `#B78D6F`.
+- “SCRIPT 2” en foncé, “ANNONCER LA FIN DE L’ÉCRAN” en `#B78D6F`.
+- “LES PHRASES QUI” en foncé, “FRAGILISENT LE CADRE” en `#B78D6F`.
+Règle :
+La couleur ne doit pas décorer.  
+Elle doit clarifier le sens ou hiérarchiser l’information.
+### 8.4.3 Sous-titre explicatif
+Usage :
+- phrase sous le titre ;
+- précision de contexte ;
+- indication de lecture.
+Style :
+- sans serif lisible ;
+- taille moyenne ;
+- couleur douce ;
+- interlignage confortable.
+Rôle :
+- clarifier rapidement la promesse de la page.
+### 8.4.4 Texte courant
+Usage :
+- paragraphes ;
+- explications ;
+- descriptions.
+Style :
+- sans serif lisible ;
+- couleur `#5A2418CC` ou couleur équivalente validée pour le texte courant ;
+- interlignage confortable.
+Rôle :
+- lecture fluide ;
+- confort ;
+- absence de fatigue visuelle.
+### 8.4.5 Titres de blocs
+Usage :
+- “La situation” ;
+- “Ce qu’on dit souvent” ;
+- “Ce qu’on peut dire à la place” ;
+- “Ce qui aide” ;
+- “À noter”.
+Style :
+- serif douce ou sans serif semi-bold ;
+- couleur `#8B8664` ou `#B78D6F` selon le rôle ;
+- taille nettement distincte du texte courant.
+Rôle :
+- structurer la page ;
+- permettre une lecture rapide.
+### 8.4.6 Labels courts
+Usage :
+- “Version douce” ;
+- “Version ferme” ;
+- “Jour 1” ;
+- “À éviter” ;
+- “Pourquoi” ;
+- “À la place”.
+Style :
+- sans serif medium ;
+- éventuellement petites capitales ;
+- couleur fonctionnelle stable.
+Rôle :
+- repère rapide ;
+- navigation visuelle.
+### 8.4.7 Citations et scripts à dire
+Usage :
+- phrases prêtes à utiliser ;
+- répliques parentales ;
+- dialogues ;
+- mini-réparations ;
+- phrases de poche.
+Style :
+- police manuscrite lisible ou italique douce ;
+- jamais trop fantaisie ;
+- taille suffisante ;
+- couleur foncée ou accent selon lisibilité.
+Rôle :
+- signaler immédiatement que le texte est une parole à prononcer ;
+- distinguer l’oral du commentaire explicatif ;
+- rendre les scripts plus humains.
+Principe validé :
+La page 7 de “Poser les règles d’écran sans bras de fer” utilise une police spéciale pour les citations. Ce principe est validé.
+Règle :
+Les phrases à dire peuvent avoir une police spécifique, douce et manuscrite, à condition de rester parfaitement lisibles.
+Interdictions :
+- utiliser la police manuscrite pour de longs paragraphes ;
+- multiplier les polices manuscrites ;
+- rendre les citations décoratives mais difficiles à lire ;
+- mélanger plusieurs styles de citation dans une même capsule.
+### 8.4.8 Notes douces et rappels
+Usage :
+- rappel ;
+- note douce ;
+- précision rassurante ;
+- phrase de transition.
+Style :
+- italique douce ou manuscrit léger ;
+- couleur `#B78D6F` ou `#8B8664` ;
+- avec parcimonie.
+Rôle :
+- apporter une respiration ;
+- humaniser sans alourdir.
+### 8.4.9 CTA et maillage interne
+Usage :
+- “Découvrir cette capsule” ;
+- lien discret ;
+- bouton de maillage.
+Style :
+- sans serif medium ;
+- lisible ;
+- sobre ;
+- accompagné d’un petit symbole de lien.
+Rôle :
+- action claire ;
+- continuité entre capsules ;
+- navigation douce.
+Règle synthétique :
+- serif = structure premium ;
+- sans serif = clarté pratique ;
+- manuscrite = parole humaine ;
+- couleur accent = hiérarchie, pas décoration.
+## 8.5 Règle de sobriété typographique
+Ne pas multiplier les polices.
+Le système doit rester limité à :
+- Fraunces ;
+- Nunito Sans ;
+- une police manuscrite validée pour les citations ou accents spécifiques, si nécessaire.
+Toute nouvelle police doit être validée explicitement par Captain.
+---
+## 9. Logo et wordmark
+## 9.1 Nom affiché
+Le nom doit être affiché ainsi :
+**Le Cocon des Solutions**
+Règle typographique :
+- “des” reste en minuscule ;
+- éviter “Le Cocon Des Solutions” sauf contrainte technique du thème Shopify.
+## 9.2 Style recommandé
+Le logo doit être un wordmark simple, lisible et doux.
+Recommandation :
+- “Le Cocon” en Fraunces Bold ;
+- “des Solutions” en Fraunces SemiBold, Fraunces Italic ou Nunito Sans selon rendu ;
+- espacement généreux ;
+- aucune surcharge graphique.
+## 9.3 À éviter
+Éviter :
+- logo trop massif ;
+- logo trop startup ;
+- logo manuscrit enfantin ;
+- logo ésotérique ;
+- symbole trop littéral de cocon ;
+- papillon trop cliché ;
+- maison trop évidente ;
+- typographie trop luxe ou magazine.
+Le logo doit respirer.
+---
+## 10. Style photographique
+## 10.1 Direction générale
+Le style photographique doit être éditorial, doux et naturel.
+Les images doivent évoquer :
+- la clarté ;
+- la maison ;
+- la solution ;
+- le calme ;
+- l’usage concret ;
+- l’objet bien rangé ;
+- l’instant de respiration ;
+- la valeur perçue premium.
+## 10.2 Lumière
+Privilégier :
+- lumière naturelle ;
+- matin doux ;
+- ombres très légères ;
+- atmosphère chaude ;
+- luminosité diffuse.
+Éviter :
+- lumière froide ;
+- néons ;
+- contrastes durs ;
+- ambiance clinique ;
+- filtres trop saturés.
+## 10.3 Matières
+Privilégier :
+- papier texturé ;
+- bois clair ;
+- céramique ;
+- lin ;
+- coton ;
+- carton doux ;
+- carnet ;
+- cartes ;
+- étiquettes ;
+- tablette mate.
+Éviter :
+- plastique brillant ;
+- métal froid ;
+- surfaces trop corporate ;
+- fonds trop numériques ;
+- textures luxe trop ostentatoires.
+## 10.4 Objets visuels récurrents
+Objets compatibles :
+- carnet ouvert ;
+- cartes empilées ;
+- fiches imprimées ;
+- stylo ;
+- tasse en céramique ;
+- tablette ;
+- ordinateur discret ;
+- jouet en bois ;
+- bougie discrète ;
+- textile doux ;
+- paniers ;
+- étiquettes ;
+- calendrier ;
+- plante ;
+- pierre naturelle discrète ;
+- symbole lunaire minimaliste.
+Objets à éviter :
+- boule de cristal ;
+- enfant en crise ;
+- parent épuisé frontalement ;
+- stéthoscope ;
+- cerveau médical ;
+- mandalas saturés ;
+- illustrations enfantines excessives ;
+- scènes trop dramatiques ;
+- stock photos trop reconnaissables.
+---
+## 11. Images de page d’accueil
+## 11.1 Rôle des images homepage
+Les images de la page d’accueil doivent transmettre la promesse globale de marque.
+Elles ne doivent pas simplement illustrer des thèmes.  
+Elles doivent faire sentir :
+**ici, les problèmes sont transformés en petites solutions claires.**
+## 11.2 Hero image recommandée
+Scène recommandée :
+- table en bois clair ;
+- fond ivoire ;
+- carnet ouvert ;
+- cartes de solutions ;
+- fiches imprimées ;
+- tasse en céramique ;
+- stylo ;
+- lumière naturelle ;
+- textile doux ;
+- quelques objets symboliques discrets selon les univers.
+Éléments possibles :
+- jouet en bois pour parentalité ;
+- petite étoile dorée ou lune discrète pour ésotérisme ;
+- checklist pour organisation ;
+- carnet de journaling pour émotions.
+La scène doit rester unifiée.  
+Elle ne doit pas ressembler à une juxtaposition de symboles.
+## 11.3 Images de sections
+Pour les sections univers, utiliser des natures mortes éditoriales plutôt que des scènes trop littérales.
+Exemples :
+- parentalité : jouet bois, carte émotion, carnet, lumière douce ;
+- organisation : checklist, calendrier, étiquettes, bureau rangé ;
+- émotions : carnet, tasse, textile, lumière du matin ;
+- ésotérisme doux : cartes, lune discrète, bougie sobre, lavande grisée ;
+- relations : deux tasses, lettre, papier, table calme.
+## 11.4 À éviter sur la homepage
+Éviter :
+- photos trop littérales ;
+- parents parfaits souriants en stock photo ;
+- enfants en crise ;
+- photos trop skincare ;
+- scènes de bureau corporate ;
+- images turquoise ou couleurs hors palette ;
+- motifs trop chargés ;
+- icônes enfantines ;
+- ésotérisme caricatural.
+---
+## 12. Images générées par IA
+## 12.1 Rôle de la génération d’image
+La génération d’image peut être utilisée pour :
+- images homepage ;
+- couvertures ;
+- mockups ;
+- visuels de capsules ;
+- scènes éditoriales ;
+- visuels publicitaires ;
+- supports par univers.
+Elle doit respecter strictement la direction artistique.
+## 12.2 Principes de génération
+Chaque prompt doit préciser :
+- lumière naturelle ;
+- palette douce ;
+- style éditorial ;
+- objets concrets ;
+- fond ivoire ou chaud ;
+- absence de surcharge ;
+- composition premium ;
+- cohérence avec l’univers.
+## 12.3 Formule de prompt de base
+Structure recommandée :
+```text
+Photographie éditoriale douce pour une marque de capsules numériques appelée Le Cocon des Solutions. Scène lumineuse sur une table en bois clair, fond ivoire chaud, carnet ouvert, cartes de solutions, fiches imprimées, tasse en céramique, texture papier, lumière naturelle du matin, ambiance calme, premium, rassurante, minimaliste, couleurs ivoire, brun doux, sauge, corail discret. Aucun texte lisible, aucun logo, pas de personnes, pas de style corporate, pas de cliché.
+
+12.4 Negative prompt recommandé
+
+Éléments à exclure :
+
+* texte illisible ;
+* faux logo ;
+* mains déformées ;
+* visages ;
+* stock photo corporate ;
+* couleurs saturées ;
+* bleu électrique ;
+* rouge vif ;
+* violet saturé ;
+* style médical ;
+* style enfantin ;
+* style mystique cliché ;
+* boule de cristal ;
+* mandala chargé ;
+* personnages dramatiques ;
+* ordinateur dominant ;
+* rendu 3D plastique.
+
+12.5 Usage des personnes
+
+Les personnes ne sont pas prioritaires dans l’identité visuelle.
+
+Si des personnes sont utilisées :
+
+* ne pas les rendre trop centrales ;
+* éviter les visages trop posés ;
+* privilégier mains, gestes, scènes partielles ;
+* éviter la dramatisation ;
+* éviter l’identification trop forte à un type unique de client.
+
+La marque doit rester universelle, douce et orientée support.
+
+12.6 Usage des personnages illustrés
+
+Les personnages illustrés peuvent être utilisés dans les capsules, mais ils doivent rester ponctuels.
+
+Règles :
+
+* ne jamais répéter la même illustration humaine exacte sur plusieurs pages internes ;
+* éviter qu’un duo parent-enfant devienne un motif automatique ;
+* limiter les illustrations humaines fortement reconnaissables à quelques occurrences dans une capsule complète ;
+* si les mêmes personnages reviennent, varier clairement la posture, le cadrage, la scène et l’intention ;
+* ne pas utiliser une illustration humaine pour combler un vide de mise en page ;
+* privilégier la solution visuelle plutôt que la scène de problème.
+
+Dans une capsule de 16 pages, une même illustration parent-enfant ne doit pas apparaître 5 fois.
+Cette répétition réduit la valeur perçue, donne un effet de remplissage et affaiblit la direction artistique.
+
+Alternatives recommandées :
+
+* cartes de scripts ;
+* carnet ;
+* stylo ;
+* pictogrammes ;
+* vase ;
+* bougie discrète ;
+* branches fines ;
+* formes organiques ;
+* encadrés doux ;
+* objets symboliques ;
+* mains partielles ;
+* personnage seul dans une posture différente.
+
+⸻
+
+13. Couvertures de capsules
+
+13.1 Rôle des couvertures
+
+La couverture est un actif commercial.
+
+Elle doit :
+
+* rendre la capsule désirable ;
+* clarifier l’univers ;
+* transmettre la promesse ;
+* augmenter la valeur perçue ;
+* rester cohérente en grille Shopify ;
+* être lisible en miniature.
+
+13.2 Structure recommandée
+
+Une couverture de capsule devrait contenir :
+
+* fond ivoire ou couleur d’univers très douce ;
+* titre principal en Fraunces ;
+* sous-titre court en Nunito Sans ;
+* pictogramme ou symbole discret ;
+* élément visuel éditorial ;
+* espace blanc généreux ;
+* badge éventuel d’univers ;
+* bloc bénéfices si la couverture le justifie ;
+* scène produit si la capsule doit être matérialisée ;
+* bandeau bas si le modèle validé le prévoit ;
+* aucun encombrement.
+
+13.3 Hiérarchie de couverture
+
+Ordre d’importance :
+
+1. titre ;
+2. promesse courte ;
+3. univers ;
+4. élément visuel ;
+5. détails.
+
+13.4 Règles de lisibilité
+
+La couverture doit rester lisible :
+
+* sur mobile ;
+* en grille produit ;
+* en mockup tablette ;
+* dans une publicité.
+
+Éviter :
+
+* titres trop longs ;
+* sous-titres minuscules ;
+* trop de pictogrammes ;
+* fonds chargés ;
+* faible contraste ;
+* visuels trop décoratifs.
+
+13.5 Cohérence par univers
+
+Toutes les capsules doivent appartenir visuellement à la même marque.
+
+Différenciation autorisée :
+
+* couleur d’univers ;
+* symbole ;
+* type de support ;
+* ambiance secondaire.
+
+Constantes obligatoires :
+
+* typographies ;
+* espace blanc ;
+* brun ou titre foncé ;
+* douceur ;
+* structure claire ;
+* qualité éditoriale ;
+* perception premium.
+
+13.6 Modèle de couverture officiel
+
+Le modèle de référence pour les couvertures est :
+
+Modele_Couverture_Cocon.pdf
+
+Ce modèle doit prévoir :
+
+* badge de promesse ou d’univers ;
+* grand titre ;
+* sous-titre clair ;
+* bloc de bénéfices ;
+* scène produit ou scène éditoriale douce ;
+* objets cohérents avec la capsule ;
+* bandeau bas si le modèle le prévoit ;
+* composition premium ;
+* perception de capsule vendable.
+
+Le modèle de couverture ne doit pas être confondu avec les pages internes.
+La couverture peut être plus dense, plus immersive et plus commerciale que les pages internes.
+
+⸻
+
+14. Mise en page interne des capsules
+
+14.1 Rôle des pages internes
+
+Les pages internes d’une capsule doivent rendre la solution lisible, agréable et immédiatement utilisable.
+
+Elles ne doivent pas être pensées comme de simples pages décorées.
+Elles doivent hiérarchiser l’information, guider l’œil et rendre la lecture facile.
+
+Une page interne réussie doit faire sentir :
+
+* “je comprends où je suis” ;
+* “je sais quoi lire en premier” ;
+* “le texte respire” ;
+* “le contenu est utile” ;
+* “la capsule est soignée” ;
+* “je peux revenir facilement sur cette page”.
+
+14.2 Format recommandé
+
+Le format de référence des capsules est le A4 vertical.
+
+Règles :
+
+* format strict : 210 x 297 mm ;
+* marges généreuses mais utiles ;
+* contenu aligné sur une grille stable ;
+* haut de page cohérent ;
+* bas de page cohérent ;
+* pagination claire ;
+* fond #FFFAF7 ;
+* décors légers en périphérie.
+
+Les formats carrés ou affiche ne doivent pas être utilisés pour les pages internes d’une capsule complète, sauf besoin spécifique validé.
+
+14.3 Priorité à la lisibilité
+
+La lisibilité prime sur l’ornement.
+
+Quand le texte est dense :
+
+* réduire ou supprimer l’illustration centrale ;
+* élargir la zone de texte ;
+* éviter les retours à la ligne trop précoces ;
+* utiliser toute la largeur utile disponible ;
+* garder les décors uniquement en bordure ;
+* réduire les pictogrammes si nécessaire ;
+* éviter les grands objets visuels qui mangent l’espace utile.
+
+Une page ne doit pas sacrifier le texte pour maintenir une illustration.
+
+14.4 Gestion des sauts à la ligne
+
+Les sauts à la ligne doivent être décidés selon la lisibilité, pas selon la place laissée par les décors.
+
+Éviter :
+
+* colonnes trop étroites sans nécessité ;
+* lignes coupées trop tôt ;
+* paragraphes qui deviennent hauts et maigres ;
+* blocs texte compressés par une illustration ;
+* mise en page qui crée un vide décoratif mais manque d’espace utile.
+
+Privilégier :
+
+* blocs texte plus larges ;
+* paragraphes aérés mais efficaces ;
+* encadrés horizontaux ;
+* séparateurs fins ;
+* hiérarchie claire ;
+* respiration entre les sections.
+
+14.5 Illustrations internes
+
+Les illustrations internes doivent servir la compréhension ou l’émotion de la page.
+
+Elles ne doivent pas être utilisées par automatisme.
+
+Règles :
+
+* ne pas répéter la même illustration humaine exacte ;
+* éviter les personnages récurrents sur trop de pages ;
+* varier les types de visuels ;
+* ne pas illustrer littéralement chaque situation ;
+* montrer davantage les repères, outils, cartes et objets que les crises elles-mêmes ;
+* préférer des signes doux de solution à des scènes de tension.
+
+Ratio recommandé dans une capsule de 16 pages :
+
+* pages avec personnages : usage ponctuel ;
+* pages avec objets ou cartes : usage principal ;
+* pages sans illustration centrale : usage fréquent lorsque le texte est dense ;
+* décors légers de bordure : usage possible sur l’ensemble.
+
+14.6 Décors légers
+
+Les décors légers peuvent être utilisés pour maintenir l’identité visuelle sans gêner la lecture.
+
+Référence principale :
+
+Retrouver un peu d’espace grâce au jeu autonome
+
+Le décor attendu n’est pas un décor plaqué.
+Il doit créer une atmosphère premium, douce, habitée et cohérente avec l’univers de la capsule.
+
+Décors compatibles :
+
+* branches fines ;
+* feuilles très pâles ;
+* petits points doux ;
+* filets ;
+* cœurs minimalistes ;
+* formes organiques ;
+* ombres légères ;
+* petits pictogrammes ;
+* texture papier ;
+* pot de plante ;
+* textile doux ;
+* petits éléments de maison ;
+* jouets bois ;
+* carnet ;
+* cartes ;
+* éléments de bureau ou de famille selon le thème.
+
+Règles :
+
+* les décors doivent rester en périphérie ;
+* ils ne doivent pas réduire la zone utile de texte ;
+* ils ne doivent pas créer de surcharge ;
+* ils ne doivent pas concurrencer le contenu ;
+* ils doivent être suffisamment subtils pour disparaître au profit de la lecture ;
+* ils doivent soutenir l’ambiance, pas remplir un vide ;
+* ils doivent être cohérents avec le sujet de la capsule ;
+* ils doivent laisser respirer le contenu.
+
+Différence importante :
+
+Le décor de “Retrouver un peu d’espace” est un décor d’ambiance.
+Il donne une impression de pièce habitée, de cocon calme, de quotidien apaisé.
+
+Le décor de “Poser les règles d’écran sans bras de fer” est davantage fonctionnel.
+Il sert surtout à guider le regard, structurer les blocs et signaler les différentes parties du contenu.
+
+La bonne combinaison est :
+
+* atmosphère de “Retrouver” ;
+* structure de “Poser”.
+
+Il ne faut pas simplement ajouter une plante à une page structurée.
+Il faut créer une page fonctionnelle qui semble posée dans un cocon.
+
+Interdictions :
+
+* décors trop nombreux ;
+* plantes ou objets trop dominants ;
+* variation excessive des coins décoratifs ;
+* éléments décoratifs qui déséquilibrent la page ;
+* répétition mécanique du même objet sur trop de pages ;
+* reprise du même pot, plaid ou scène exacte de la couverture sur plusieurs pages internes ;
+* décor utilisé comme cache-misère d’une page mal structurée.
+
+Règle de répétition décorative :
+
+Un objet décoratif peut devenir un repère de capsule, mais il ne doit pas apparaître mécaniquement sur presque toutes les pages.
+
+Si le pot de plante, le plaid ou une scène de couverture apparaît déjà sur la couverture, il faut limiter sa répétition dans les pages internes ou en créer des variations nettes.
+
+14.7 Structure du contenu
+
+La structure du contenu doit être pensée comme un outil de lecture, pas comme un simple empilement de texte.
+
+Référence principale :
+
+Poser les règles d’écran sans bras de fer
+
+Les pages de contenu doivent transformer la logique du texte en forme visuelle.
+
+Exemples de structures recommandées :
+
+* blocs “La situation / Ce qu’on dit souvent / Ce qu’on peut dire à la place” ;
+* colonnes comparatives ;
+* dialogues parent / enfant ;
+* séquences en étapes ;
+* tableaux doux ;
+* cartes de réponse ;
+* blocs “À éviter / Pourquoi / À la place” ;
+* encadrés “Ce qui aide” ;
+* encadrés “À noter” ;
+* plans progressifs ;
+* fiches synthèse ;
+* listes très lisibles.
+
+Objectif :
+
+Le lecteur doit comprendre rapidement :
+
+* où il est dans la capsule ;
+* ce que la page lui apporte ;
+* ce qu’il peut faire concrètement ;
+* quelle phrase, règle ou action retenir.
+
+La mise en page doit aider à consulter la capsule au moment réel du besoin.
+Elle doit donc être claire, scannable, structurée et utile.
+
+Règle :
+
+Plus une page contient un contenu opérationnel, plus sa structure doit être forte.
+
+Pages qui doivent privilégier la structure fonctionnelle :
+
+* scripts ;
+* comparatifs ;
+* phrases alternatives ;
+* erreurs fréquentes ;
+* plans 7 jours ;
+* étapes ;
+* fiches de poche ;
+* pages “À retenir”.
+
+Pages qui peuvent privilégier davantage la respiration :
+
+* introduction ;
+* clarification ;
+* page émotionnelle ;
+* page de déculpabilisation ;
+* transition douce ;
+* conclusion.
+
+14.8 Règle anti-surcharge
+
+La structure doit clarifier le contenu sans devenir visible comme un système complexe.
+
+Une page interne ne doit pas cumuler plusieurs dispositifs forts à la fois.
+
+Par défaut, chaque page utilise :
+
+* une structure principale maximum ;
+* un ou deux éléments de soutien maximum.
+
+Exemples de structure principale :
+
+* une liste ;
+* un tableau comparatif ;
+* une séquence en étapes ;
+* une fiche script ;
+* un encadré central ;
+* deux cartes de maillage.
+
+Exemples d’éléments de soutien :
+
+* pictogramme ;
+* note douce ;
+* petit décor périphérique ;
+* citation manuscrite ;
+* encadré “À noter”.
+
+Si la page donne l’impression d’un tableau de bord, d’une infographie ou d’un template trop construit, elle doit être simplifiée.
+
+Le premium vient de la maîtrise, pas de l’accumulation.
+
+Formule de contrôle :
+
+1 intention, 1 structure, 1 respiration.
+
+14.9 Cartes de contenu
+
+Les cartes internes sont recommandées pour structurer :
+
+* situations ;
+* phrases à éviter ;
+* phrases à essayer ;
+* rappels ;
+* plans d’action ;
+* checklists ;
+* notes importantes ;
+* maillage interne.
+
+Style recommandé :
+
+* fond ivoire ou beige doux ;
+* coins arrondis ;
+* bordure très légère ;
+* ombre douce ;
+* pictogramme simple ;
+* titre court ;
+* texte lisible ;
+* contraste suffisant ;
+* espacement confortable.
+
+Les encadrés ne doivent pas être seulement décoratifs.
+Ils doivent avoir une fonction :
+
+* isoler une situation ;
+* signaler une phrase à dire ;
+* distinguer une erreur ;
+* rendre une comparaison lisible ;
+* guider une action ;
+* synthétiser un repère.
+
+14.10 Maillage interne dans les capsules
+
+Les pages de maillage interne doivent être visuellement identifiables, mais rester douces.
+
+Le maillage interne doit être présenté sous forme de cartes cliquables plutôt que de liens bruts.
+
+Chaque carte de maillage doit contenir :
+
+* un pictogramme ou visuel discret ;
+* le titre de la capsule recommandée ;
+* une phrase de bénéfice courte ;
+* un CTA explicite ;
+* un petit symbole de lien discret.
+
+CTA recommandé :
+
+Découvrir cette capsule
+
+Le symbole de lien peut être :
+
+* petit maillon ;
+* petite flèche douce ;
+* pictogramme lien minimaliste.
+
+Objectif :
+
+La carte doit être perçue comme une passerelle vers une autre capsule, pas comme une simple recommandation éditoriale.
+
+À éviter :
+
+* liens bleus soulignés ;
+* style web agressif ;
+* boutons trop commerciaux ;
+* “acheter maintenant” dans une page de maillage interne ;
+* encadrés trop promotionnels ;
+* badges criards ;
+* carte sans CTA ;
+* carte sans symbole de lien ;
+* simple paragraphe de recommandation sans structure visuelle ;
+* style de carte différent d’une capsule à l’autre.
+
+La carte entière peut être rendue cliquable au moment de l’assemblage final du PDF.
+
+14.11 Indication visuelle des liens
+
+Un lien dans une capsule doit être compris comme cliquable sans rompre l’univers graphique.
+
+Signaux visuels compatibles :
+
+* petit pictogramme de lien ;
+* flèche fine ;
+* pastille sauge ;
+* bouton doux ;
+* contour discret ;
+* micro-texte d’action ;
+* carte avec effet de bouton.
+
+Règle :
+
+Le lecteur doit comprendre qu’il peut cliquer, mais le PDF ne doit pas ressembler à une page web agressive.
+
+14.12 QR Code
+
+Le QR Code peut être utilisé dans une capsule, notamment sur la dernière page.
+
+Rôle :
+
+* permettre l’accès rapide à la boutique ;
+* rendre le lien utilisable si la capsule est imprimée ;
+* relier la capsule numérique au site ;
+* faciliter le maillage vers le cocon global.
+
+Style obligatoire :
+
+* QR Code dans une case dédiée ;
+* encadré carré ;
+* ratio strict 1:1 ;
+* bordure fine ;
+* fond clair ;
+* libellé court ;
+* position stable ;
+* aucun effet criard ;
+* pas de rectangle ;
+* pas de coins arrondis si le modèle validé exige un carré strict.
+
+Texte compatible autour du QR Code :
+
+* Scanner pour retrouver les autres capsules ;
+* Explorer le cocon ;
+* Découvrir les autres solutions ;
+* Retrouver la boutique.
+
+Le QR Code ne doit pas dominer la dernière page.
+Il doit rester utile, discret et propre.
+
+14.13 Dernière page des capsules
+
+La dernière page d’une capsule doit pouvoir jouer trois rôles :
+
+1. clôturer doucement la capsule ;
+2. proposer une suite logique ;
+3. relier à la marque et à la boutique.
+
+Éléments recommandés :
+
+* rappel ou phrase de clôture ;
+* fiche récapitulative si pertinent ;
+* QR Code dans un encadré dédié ;
+* lien vers la boutique ;
+* phrase de marque ;
+* pied de page clair.
+
+Pied de page recommandé pour la dernière page :
+
+lecocondessolutions.fr
+Des solutions douces pour avancer plus clairement.
+
+Le site doit apparaître uniquement en bas de la dernière page, centré, sous la pagination basse ou très proche d’elle selon l’espace disponible.
+
+Sur les pages internes qui ne sont pas la dernière page, ne pas afficher le site en footer, sauf décision explicite contraire.
+La pagination basse suffit.
+
+14.14 Pagination basse obligatoire
+
+La pagination doit être placée en bas de page, centrée, selon le modèle validé.
+
+Style attendu :
+
+* numéro de page placé dans une petite pastille ronde ;
+* pastille centrée horizontalement ;
+* pastille couleur #8B8664 ;
+* numéro blanc #FFFFFF ;
+* deux traits fins horizontaux de part et d’autre de la pastille ;
+* traits fins couleur #8B8664 ;
+* ensemble discret, élégant, stable.
+
+La pagination basse doit être identique sur toutes les pages internes.
+
+Interdictions :
+
+* “PAGE X” en haut de page ;
+* numéro isolé sans pastille ;
+* pastille déplacée à gauche ou à droite ;
+* changement de forme de pagination en cours de capsule ;
+* numérotation décorative différente selon les pages ;
+* alternance systématique de couleurs dans les pastilles de pagination ;
+* pagination trop ornementée.
+
+Règle complémentaire :
+
+Les numérotations internes dans le contenu peuvent utiliser #8B8664 par défaut.
+Le #B78D6F peut servir d’accent ponctuel, mais ne doit pas créer une alternance décorative sans fonction claire.
+
+14.15 Header des pages internes
+
+Le header doit rester sobre, constant et discret.
+
+Éléments autorisés :
+
+* logo du Cocon centré en haut ;
+* nom “Le Cocon des Solutions” ;
+* éventuellement la phrase de marque courte sous le logo si elle est déjà intégrée au gabarit.
+
+Éléments interdits :
+
+* indication “PAGE X” en haut de page ;
+* changement aléatoire de taille du logo ;
+* déplacement du logo d’une page à l’autre ;
+* ajout de badges ou stickers non prévus ;
+* header trop décoratif.
+
+Règle stricte :
+
+La mention de page en haut est interdite.
+La numérotation de page se fait uniquement en bas de page.
+
+14.16 Badge ou sticker rond
+
+Le badge rond de promesse ou d’univers est autorisé sur la couverture.
+
+Sur les pages internes, il ne doit pas apparaître automatiquement.
+
+Règle stricte recommandée :
+
+* couverture : badge autorisé ;
+* pages internes standard : pas de badge rond de promesse ;
+* exception : seulement si un gabarit interne officiel l’impose pour toute la capsule.
+
+Si un badge apparaît sur une page interne sans avoir été prévu dans le gabarit, il doit être retiré.
+
+Objectif :
+
+Éviter que certaines capsules aient un sticker permanent et d’autres non, ce qui crée une incohérence de gamme.
+
+14.17 Fiche de poche
+
+La fiche de poche peut être la dernière page si elle accueille le QR Code.
+
+Elle doit contenir :
+
+* les phrases essentielles ;
+* une numérotation claire ;
+* un encadré carré QR Code ;
+* le site ;
+* la phrase de marque ;
+* une mise en page très lisible.
+
+Si le QR Code est ajouté à une fiche de poche, la composition doit être pensée dès le départ pour lui laisser de la place.
+Il ne doit pas être ajouté après coup dans un espace résiduel.
+
+14.18 Gabarit canonique des capsules
+
+Toutes les capsules du Cocon des Solutions doivent donner l’impression d’appartenir à une même gamme visuelle premium.
+
+Une page peut avoir une fonction différente, mais elle ne doit pas sembler provenir d’un autre modèle. La capsule doit rester douce, claire et accessible, tout en conservant une perception de valeur élevée.
+
+Le rendu attendu n’est pas un simple document décoré.
+Le rendu attendu est une capsule numérique premium, structurée, lisible, rassurante et prête à être vendue.
+
+La direction artistique ne doit pas dépendre de l’interprétation libre de l’agent. Les composants fixes doivent rester identiques d’une page à l’autre et d’une capsule à l’autre.
+
+Principe central :
+
+Une capsule peut varier dans son contenu, ses encadrés, ses pictogrammes, ses compositions internes et ses décors légers.
+Elle ne doit pas varier dans ses repères de structure.
+
+Les éléments suivants sont considérés comme fixes :
+
+* format ;
+* fond ;
+* header ;
+* pagination basse ;
+* footer final ;
+* marges ;
+* style des encadrés ;
+* style du maillage interne ;
+* emplacement du QR code ;
+* logique typographique ;
+* logique décorative ;
+* logique de répétition des illustrations.
+
+La bonne combinaison visuelle du Cocon repose sur deux références internes :
+
+* “Retrouver un peu d’espace grâce au jeu autonome” sert de référence pour l’atmosphère, les décors, les respirations, les objets doux et la sensation de cocon habité.
+* “Poser les règles d’écran sans bras de fer” sert de référence pour la structure du contenu, les scripts, les blocs comparatifs, les tableaux, les séquences et les contenus textuels denses.
+
+Formule de référence :
+
+Une capsule doit avoir l’atmosphère douce et premium de “Retrouver un peu d’espace”, avec la clarté fonctionnelle et la structure opérationnelle de “Poser les règles”.
+
+Autrement dit :
+
+* douce à regarder ;
+* utile à lire ;
+* premium dans le rendu ;
+* claire dans l’usage ;
+* jamais générique.
+
+14.19 Modèles visuels officiels et références de production
+
+Les modèles visuels officiels servent à réduire l’improvisation sur les pages récurrentes et les composants fixes.
+
+Ils ne doivent pas devenir des pages surchargées ou des démonstrations de design system.
+Ils servent à verrouiller ce qui doit être stable, tout en laissant les pages de contenu s’adapter au sujet de la capsule.
+
+Principe important :
+
+Il n’existe pas de modèle unique de page interne standard.
+
+Les pages internes changent selon le sujet, la densité du contenu et la fonction de la page : script, comparaison, clarification, étapes, rappel, plan, synthèse.
+
+Il ne faut donc pas créer ou utiliser un Modele_Page_Interne_Cocon comme gabarit général rigide.
+
+La cohérence des pages internes vient du fond, de la palette, de la typographie, de la pagination, des marges, du niveau premium, des encadrés, des pictogrammes et de la logique de composition, pas d’un modèle unique répété partout.
+
+Modèles officiels à référencer par leur nom exact dans les fichiers :
+
+Modele_Couverture_Cocon.pdf
+
+Usage :
+
+* couverture de capsule ;
+* visuel principal Shopify ;
+* référence de mockup ;
+* base publicitaire éventuelle.
+
+Doit contenir :
+
+* badge de promesse ou d’univers ;
+* grand titre ;
+* sous-titre clair ;
+* bloc bénéfices ;
+* scène produit ou scène éditoriale douce ;
+* objets cohérents avec la capsule ;
+* bandeau bas si le modèle le prévoit ;
+* composition premium ;
+* perception de capsule vendable.
+
+Règle :
+
+La couverture est un actif commercial.
+Elle peut être plus immersive et plus dense que les pages internes, mais elle doit rester lisible, douce et premium.
+
+Modeles_pages_2_et_3.pdf
+
+Usage :
+
+* page “Cette capsule est faite pour vous si…” ;
+* page “Ce que cette capsule contient (et ce qu’elle ne promet pas)” ;
+* pages d’introduction récurrentes qui apparaissent systématiquement dans les capsules.
+
+Doit contenir :
+
+* header sobre ;
+* grand titre très lisible ;
+* hiérarchie claire ;
+* phrases d’identification ou de cadrage ;
+* pictogrammes ou pastilles discrètes ;
+* décors légers en périphérie ;
+* pagination basse validée ;
+* absence de mention “PAGE X” en haut.
+
+Règle :
+
+Ces deux pages ont une fonction récurrente dans les capsules.
+Elles peuvent donc être plus standardisées que les pages de contenu.
+Le modèle fixe la structure visuelle, pas le texte exact.
+
+Modele_Page_Maillage_Interne_Cocon.pdf
+
+Usage :
+
+* pages “À associer avec” ;
+* recommandations de capsules complémentaires ;
+* passerelles entre capsules ;
+* maillage interne du PDF.
+
+Doit contenir :
+
+* cartes de maillage ;
+* pictogramme ou visuel discret ;
+* titre de capsule ;
+* courte phrase d’usage ;
+* CTA explicite ;
+* logo de lien discret ;
+* composition douce ;
+* lisibilité immédiate.
+
+CTA recommandé :
+
+Découvrir cette capsule
+
+Règle :
+
+Une carte de maillage sans CTA et sans symbole de lien est incomplète.
+Le maillage interne doit ressembler à une passerelle douce, pas à une publicité agressive.
+
+Modele_Page_Finale_QR_Cocon.pdf
+
+Usage :
+
+* dernière page ;
+* fiche de poche finale ;
+* page de clôture ;
+* lien vers la boutique.
+
+Doit contenir :
+
+* encadré carré QR Code obligatoire ;
+* ratio 1:1 ;
+* pas de coins arrondis si le modèle carré strict est retenu ;
+* site centré ;
+* phrase de marque ;
+* pagination basse ;
+* composition calme ;
+* espace suffisant pour le QR Code dès la conception.
+
+Règle :
+
+Le QR Code ne doit jamais être ajouté après coup dans un espace résiduel.
+La page finale doit être pensée dès le départ avec sa zone QR.
+
+Modele_plan_7_jours.pdf
+
+Usage :
+
+* pages “Plan 7 jours” ;
+* progressions courtes ;
+* routines d’installation ;
+* parcours d’action progressif ;
+* expérimentation sur une semaine.
+
+Doit contenir :
+
+* titre fort ;
+* sous-titre doux ou manuscrit si pertinent ;
+* découpage clair par jour ;
+* pictogrammes répétitifs et cohérents ;
+* lignes de séparation ;
+* encadré “Rappel” ou synthèse finale ;
+* pagination basse validée ;
+* lecture rapide.
+
+Règle :
+
+Ce modèle sert de structure pour une progression en jours.
+Il ne force pas toutes les capsules à avoir un plan 7 jours.
+Si le contenu justifie un autre rythme, il faut adapter la progression sans perdre la clarté du modèle.
+
+Modele_personnages.pdf
+
+Usage :
+
+* référence de style pour les personnages ;
+* cohérence du rendu humain ;
+* proportions parent / enfant ;
+* posture douce ;
+* continuité visuelle entre capsules ;
+* niveau de réalisme acceptable.
+
+Doit définir :
+
+* style semi-illustré doux ;
+* expressions calmes ;
+* proportions naturelles ;
+* vêtements sobres ;
+* palette douce ;
+* posture non dramatique ;
+* niveau premium et rassurant.
+
+Règle :
+
+Modele_personnages.pdf est une référence de style, pas une obligation de faire apparaître les mêmes personnages dans toutes les capsules.
+
+Les personnages peuvent revenir entre capsules pour créer une continuité de gamme, mais ils ne doivent pas être répétés mécaniquement.
+
+Dans une même capsule, si un personnage revient, la posture, le cadrage, l’expression ou la situation doivent changer nettement.
+
+14.19.1 Banque visuelle des capsules
+
+Il n’existe pas de bibliothèque fixe d’objets à répéter dans toutes les capsules.
+Chaque capsule doit développer sa propre banque visuelle selon son thème.
+
+Les éléments récurrents de gamme concernent surtout le style :
+
+* fond ;
+* palette ;
+* typographies ;
+* pagination ;
+* niveau premium ;
+* décors légers ;
+* encadrés ;
+* pictogrammes ;
+* logique de composition.
+
+Les objets illustrés doivent rester majoritairement variables selon la capsule.
+Un objet récurrent peut apparaître pour créer une continuité de marque, mais il ne doit jamais devenir automatique.
+
+Pour chaque capsule, définir une mini-banque visuelle :
+
+* objets principaux liés au thème ;
+* objets secondaires d’ambiance ;
+* pictogrammes spécifiques ;
+* décors doux ;
+* éventuels personnages ou scènes.
+
+Objectif :
+
+Créer une cohérence de gamme sans uniformiser artificiellement les capsules.
+
+Règles de banque visuelle :
+
+* les objets doivent servir le thème de la capsule ;
+* les objets ne doivent pas être repris par réflexe d’une capsule à l’autre ;
+* les objets de couverture ne doivent pas être répétés mécaniquement sur les pages internes ;
+* une plante, une tasse, un plaid ou une carte peuvent revenir, mais seulement si leur présence sert l’ambiance ou la composition ;
+* un même objet ne doit pas apparaître sur presque toutes les pages d’une capsule ;
+* les personnages peuvent créer une continuité entre capsules, mais pas une répétition visuelle paresseuse ;
+* la banque visuelle doit créer une famille d’éléments, pas une boucle de répétitions.
+
+14.20 Logique de production par gabarit
+
+Chaque page doit être associée à un type de composition avant génération.
+
+Il faut distinguer :
+
+* les modèles fixes pour les pages récurrentes ;
+* les références de style ;
+* les compositions souples pour les pages de contenu.
+
+Modèles fixes obligatoires quand la page correspond à leur usage :
+
+* Modele_Couverture_Cocon.pdf ;
+* Modeles_pages_2_et_3.pdf ;
+* Modele_Page_Maillage_Interne_Cocon.pdf ;
+* Modele_Page_Finale_QR_Cocon.pdf ;
+* Modele_plan_7_jours.pdf.
+
+Référence de style :
+
+* Modele_personnages.pdf.
+
+Compositions souples à adapter selon le contenu :
+
+* page clarification ;
+* page script ;
+* page étapes ;
+* page comparaison ;
+* page “À retenir” ;
+* page émotionnelle ;
+* page explicative ;
+* page de synthèse.
+
+Règle :
+
+L’agent ne doit pas générer une page librement.
+Il doit identifier la fonction de la page, puis utiliser le modèle fixe ou la logique de composition la plus adaptée.
+
+Le modèle fixe le cadre quand la page est récurrente.
+La composition interne adapte la page au contenu quand la page est spécifique à la capsule.
+
+Il ne faut pas forcer un modèle unique de page interne sur toutes les capsules.
+La diversité contrôlée est préférable à une uniformisation artificielle.
+
+⸻
+
+15. Mockups
+
+15.1 Rôle des mockups
+
+Les mockups doivent matérialiser la valeur d’un produit numérique.
+
+Ils doivent faire comprendre que la capsule contient :
+
+* des pages ;
+* des fiches ;
+* des checklists ;
+* des cartes ;
+* des supports imprimables ;
+* une méthode.
+
+15.2 Mockups recommandés
+
+Formats compatibles :
+
+* tablette affichant la couverture ;
+* tablette + pages imprimées ;
+* pile de fiches ;
+* cartes pratiques ;
+* carnet ouvert ;
+* aperçu de checklist ;
+* coffret visuel de plusieurs capsules ;
+* grille de pages internes.
+
+15.3 À éviter
+
+Éviter :
+
+* couverture plate seule ;
+* mockup trop technologique ;
+* ordinateur froid ;
+* smartphone seul ;
+* rendu 3D trop plastique ;
+* empilement excessif ;
+* visuels de “ebook marketing” génériques.
+
+⸻
+
+16. Codes visuels par univers
+
+16.1 Parentalité
+
+Couleur :
+
+* sauge doux #B8C7AE.
+
+Objets :
+
+* jouets bois ;
+* cartes émotions ;
+* carnet parent ;
+* pictogrammes simples ;
+* paniers ;
+* textile doux ;
+* table familiale calme.
+
+Symboles :
+
+* maison ;
+* coeur discret ;
+* cercle ;
+* petite étoile douce ;
+* carte émotion.
+
+À éviter :
+
+* enfants en crise ;
+* parents visiblement épuisés ;
+* photos culpabilisantes ;
+* univers bébé trop infantile ;
+* couleurs pastel sucrées ;
+* imagerie Montessori cliché excessive.
+
+16.2 Organisation
+
+Couleur :
+
+* bleu brume #B8C7D9.
+
+Objets :
+
+* calendrier ;
+* checklist ;
+* étiquettes ;
+* classeur doux ;
+* panier ;
+* bureau clair ;
+* blocs de notes ;
+* stylo.
+
+Symboles :
+
+* grille douce ;
+* coche ;
+* ligne ;
+* calendrier ;
+* flèche simple.
+
+À éviter :
+
+* productivité corporate ;
+* bureaux froids ;
+* tableaux complexes ;
+* surcharge visuelle ;
+* esthétique Notion trop tech.
+
+16.3 Émotions
+
+Couleur :
+
+* rose argile #D9A08F.
+
+Objets :
+
+* carnet ;
+* tasse ;
+* textile ;
+* carte introspective ;
+* lumière douce ;
+* bougie discrète.
+
+Symboles :
+
+* cercle ;
+* vague ;
+* ligne respiratoire ;
+* coeur minimal ;
+* goutte.
+
+À éviter :
+
+* visage triste en gros plan ;
+* imagerie thérapeutique lourde ;
+* cerveau médical ;
+* promesse de guérison visuelle ;
+* ambiance sombre.
+
+16.4 Ésotérisme doux
+
+Couleur :
+
+* lavande grisée #DED0F0.
+
+Objets :
+
+* cartes ;
+* carnet ;
+* lune discrète ;
+* étoile fine ;
+* bougie sobre ;
+* papier texturé ;
+* pierre naturelle discrète.
+
+Symboles :
+
+* lune ;
+* étoile ;
+* cercle ;
+* carte ;
+* ligne orbitale.
+
+À éviter :
+
+* boule de cristal ;
+* tarot cliché agressif ;
+* mains mystiques ;
+* violet saturé ;
+* doré excessif ;
+* fumée dramatique ;
+* promesse magique visuelle.
+
+⸻
+
+17. Shopify, structure visuelle
+
+17.1 Rôle de Shopify
+
+La boutique Shopify doit être perçue comme :
+
+* simple ;
+* calme ;
+* premium ;
+* claire ;
+* rassurante ;
+* facile à parcourir.
+
+Elle ne doit pas ressembler à :
+
+* une bibliothèque ;
+* une marketplace ;
+* un blog ;
+* une boutique de templates ;
+* un site de formation.
+
+17.2 Hero
+
+Le hero doit contenir :
+
+* le nom de marque ;
+* une accroche courte ;
+* une micro-phrase ;
+* un visuel éditorial fort ;
+* un CTA clair.
+
+Texte compatible :
+
+Accroche :
+
+Des solutions, simplement.
+
+Micro-phrase :
+
+Capsules pratiques, claires et douces.
+
+17.3 Sections homepage
+
+Sections visuelles recommandées :
+
+1. Hero ;
+2. univers ;
+3. capsules favorites ;
+4. notre approche ;
+5. solutions à taille humaine ;
+6. coffrets futurs ou capsules complémentaires ;
+7. rejoindre le cocon.
+
+17.4 Titres de sections compatibles
+
+* Explorer les univers ;
+* Capsules favorites ;
+* Notre approche ;
+* Des solutions à taille humaine ;
+* Rejoindre le cocon ;
+* Coffrets de solutions ;
+* Nouvelles capsules.
+
+17.5 Grille produit
+
+La grille produit doit être claire.
+
+Chaque carte capsule doit montrer :
+
+* couverture ;
+* univers ;
+* titre ;
+* promesse courte ;
+* prix ;
+* CTA.
+
+La carte doit éviter les textes trop longs.
+
+⸻
+
+18. CTA et composants visuels
+
+18.1 Bouton principal
+
+Usage :
+
+* achat ;
+* découverte de capsule ;
+* inscription importante.
+
+Style :
+
+* fond corail #D95A3A ;
+* texte blanc ;
+* hover brun #5A2418.
+
+Textes compatibles :
+
+* Découvrir la capsule ;
+* Explorer l’univers ;
+* Rejoindre le cocon ;
+* Voir les capsules.
+
+18.2 Bouton secondaire
+
+Usage :
+
+* navigation ;
+* actions moins prioritaires.
+
+Style :
+
+* fond transparent ;
+* texte brun ;
+* bordure brun ;
+* hover brun avec texte blanc.
+
+18.3 Boutons critiques e-commerce
+
+Pour les actions transactionnelles, la clarté prime.
+
+Formulations acceptées :
+
+* Ajouter au panier ;
+* Commander ;
+* Acheter maintenant.
+
+Les formulations propriétaires peuvent être utilisées seulement si elles restent immédiatement compréhensibles.
+
+18.4 CTA internes aux capsules
+
+Les CTA internes aux capsules doivent rester doux, utiles et contextuels.
+
+Ils servent principalement à :
+
+* guider vers une capsule complémentaire ;
+* proposer une suite logique ;
+* envoyer vers la boutique ;
+* inviter à découvrir un coffret ;
+* faciliter la navigation du lecteur.
+
+Formulations compatibles :
+
+* Découvrir cette capsule ;
+* Voir la capsule associée ;
+* Continuer avec cette solution ;
+* Explorer d’autres capsules douces ;
+* Découvrir les autres solutions du Cocon.
+
+Formulations à éviter dans les pages internes :
+
+* Acheter maintenant ;
+* Offre exclusive ;
+* Produit recommandé ;
+* Profitez-en vite ;
+* Ne ratez pas cette capsule ;
+* CTA trop urgent ou trop promotionnel.
+
+18.5 Cartes de lien internes
+
+Une carte de lien interne doit être traitée comme un composant visuel à part entière.
+
+Elle doit contenir idéalement :
+
+* un titre clair ;
+* une phrase courte de contexte ;
+* un CTA discret ;
+* un pictogramme ou symbole de lien ;
+* une zone cliquable au moment de l’export PDF.
+
+Style recommandé :
+
+* fond doux ;
+* bordure subtile ;
+* coin arrondi ;
+* icône légère ;
+* CTA en sauge, brun ou corail discret ;
+* flèche simple.
+
+⸻
+
+19. Iconographie et pictogrammes
+
+19.1 Style
+
+Les pictogrammes doivent être :
+
+* simples ;
+* arrondis ;
+* fins ;
+* chaleureux ;
+* peu détaillés ;
+* cohérents entre eux.
+
+19.2 Usage
+
+Ils peuvent servir à :
+
+* identifier un univers ;
+* illustrer une fiche ;
+* enrichir une couverture ;
+* créer une carte méthode ;
+* structurer une checklist ;
+* signaler un lien ;
+* identifier une capsule complémentaire ;
+* accompagner un QR Code.
+
+19.3 Pictogrammes de lien
+
+Les pictogrammes de lien doivent être subtils.
+
+Symboles compatibles :
+
+* maillon fin ;
+* flèche ;
+* carte ;
+* petite capsule ;
+* porte ouverte ;
+* feuille ;
+* coeur minimal ;
+* repère.
+
+À éviter :
+
+* icône web trop technique ;
+* gros symbole externe ;
+* style bouton logiciel ;
+* pictogramme bleu standard ;
+* surenchère de flèches.
+
+19.4 À éviter
+
+Éviter :
+
+* icônes trop corporate ;
+* pictogrammes trop enfantins ;
+* symboles trop médicaux ;
+* emojis dans l’identité visuelle principale ;
+* icônes 3D ;
+* illustrations trop chargées.
+
+⸻
+
+20. Illustrations
+
+20.1 Usage
+
+Les illustrations peuvent compléter les photos, mais ne doivent pas remplacer toute la direction visuelle.
+
+Usage compatible :
+
+* pictogrammes ;
+* cartes ;
+* fiches internes ;
+* motifs légers ;
+* symboles par univers ;
+* personnages ponctuels ;
+* gestes simples ;
+* scènes calmes.
+
+20.2 Style recommandé
+
+* lignes fines ;
+* formes organiques ;
+* coins arrondis ;
+* couleurs douces ;
+* peu de détails ;
+* pas de personnages trop cartoon.
+
+20.3 Variation obligatoire
+
+Les illustrations doivent varier dans une capsule complète.
+
+Règles :
+
+* ne pas utiliser plusieurs fois la même illustration humaine exacte ;
+* ne pas répéter mécaniquement le même duo ou la même scène ;
+* ne pas placer une illustration humaine sur trop de pages rapprochées ;
+* varier entre scènes humaines, objets, cartes, pictogrammes et pages sans illustration ;
+* adapter le type d’illustration à la densité du texte ;
+* conserver une cohérence de style sans tomber dans la répétition.
+
+Quand une même figure revient, elle doit être transformée :
+
+* autre posture ;
+* autre cadrage ;
+* autre geste ;
+* autre distance ;
+* autre expression ;
+* autre rôle dans la page.
+
+20.4 Banque visuelle des capsules
+
+Il n’existe pas de bibliothèque fixe d’objets à répéter dans toutes les capsules.
+Chaque capsule doit développer sa propre banque visuelle selon son thème.
+
+Les éléments récurrents de gamme concernent surtout le style :
+
+* fond ;
+* palette ;
+* typographies ;
+* pagination ;
+* niveau premium ;
+* décors légers ;
+* encadrés ;
+* pictogrammes ;
+* logique de composition.
+
+Les objets illustrés doivent rester majoritairement variables selon la capsule.
+Un objet récurrent peut apparaître pour créer une continuité de marque, mais il ne doit jamais devenir automatique.
+
+Pour chaque capsule, définir une mini-banque visuelle :
+
+* objets principaux liés au thème ;
+* objets secondaires d’ambiance ;
+* pictogrammes spécifiques ;
+* décors doux ;
+* éventuels personnages ou scènes.
+
+Objectif :
+
+Créer une cohérence de gamme sans uniformiser artificiellement les capsules.
+
+Règles :
+
+* répéter les mêmes personnages entre plusieurs capsules est autorisé et peut renforcer la cohérence de gamme ;
+* répéter exactement la même illustration dans une même capsule est interdit comme visuel principal ;
+* si les mêmes personnages reviennent dans une même capsule, la posture, le cadrage, l’expression ou la situation doivent changer nettement ;
+* un même objet décoratif peut revenir, mais jamais mécaniquement sur presque toutes les pages ;
+* les objets doivent être choisis selon le thème de la capsule ;
+* la banque visuelle doit créer une famille d’éléments, pas une boucle de répétitions.
+
+Référence de style humain :
+
+Modele_personnages.pdf
+
+Ce modèle sert à cadrer le rendu des personnages, pas à imposer leur présence dans toutes les capsules.
+
+20.5 À éviter
+
+Éviter :
+
+* style enfantin ;
+* style médical ;
+* style startup SaaS ;
+* style très plat et générique ;
+* personnages exagérément expressifs ;
+* répétition excessive de la même scène ;
+* personnage utilisé comme remplissage ;
+* illustration qui réduit inutilement la lisibilité du texte.
+
+⸻
+
+21. Règles d’alignement entre texte et image
+
+Le texte et l’image doivent produire le même effet.
+
+21.1 Cohérence obligatoire
+
+Une capsule ou une page ne doit pas combiner :
+
+* une promesse douce avec une image anxiogène ;
+* un texte premium avec un visuel Canva générique ;
+* un sujet parental avec une image culpabilisante ;
+* un sujet ésotérique doux avec des symboles trop mystiques ;
+* une promesse concrète avec une image trop abstraite ;
+* une page claire avec une couverture surchargée ;
+* un texte dense avec une illustration qui bloque la respiration ;
+* un maillage interne avec un CTA agressif.
+
+21.2 Supervision du Copywriting_Agent
+
+Artistic_Lead_Agent peut superviser le Copywriting_Agent lorsque le texte affecte le ressenti global de marque.
+
+Supervision autorisée sur :
+
+* cohérence de ton ;
+* vocabulaire de marque ;
+* longueur visuelle des accroches ;
+* agressivité perçue ;
+* harmonie texte-image ;
+* promesses trop publicitaires ;
+* textes qui cassent la douceur globale ;
+* lisibilité des textes internes ;
+* formulation des CTA de maillage.
+
+Cette supervision ne donne pas à Artistic_Lead_Agent le rôle de rédacteur principal.
+
+⸻
+
+22. Règles publicitaires visuelles
+
+22.1 Objectif
+
+Les publicités doivent rendre la capsule concrète.
+
+Elles doivent montrer :
+
+* le problème ;
+* la capsule ;
+* un aperçu du contenu ;
+* une fiche ;
+* une checklist ;
+* une transformation douce ;
+* une simplicité d’usage.
+
+22.2 Styles publicitaires compatibles
+
+* main qui feuillette une capsule sur tablette ;
+* aperçu de fiches imprimées ;
+* scène calme de table ;
+* avant / après visuel très sobre ;
+* UGC doux ;
+* courte démonstration d’un outil ;
+* zoom sur une checklist ;
+* carousel de pages internes.
+
+22.3 À éviter
+
+Éviter :
+
+* publicités anxiogènes ;
+* enfants en détresse ;
+* promesses visuelles trop fortes ;
+* gros texte rouge ;
+* emojis excessifs ;
+* style dropshipping ;
+* style ebook marketing agressif ;
+* faux avis visuels ;
+* screenshots trompeurs.
+
+⸻
+
+23. Règles de cohérence de marque
+
+23.1 Constantes à maintenir
+
+La marque doit toujours maintenir :
+
+* fond chaud ;
+* brun principal sur le site ;
+* palette capsule stable ;
+* typographies Fraunces et Nunito Sans ;
+* espace blanc ;
+* objets concrets ;
+* douceur ;
+* clarté ;
+* sobriété ;
+* promesse visuelle d’utilité ;
+* perception premium.
+
+23.2 Variables autorisées
+
+Selon l’univers ou la capsule, il est possible de modifier :
+
+* couleur secondaire ;
+* symbole ;
+* objet central ;
+* ambiance secondaire ;
+* type de support ;
+* composition ;
+* degré de présence des illustrations ;
+* rythme des pages internes ;
+* format des cartes de maillage.
+
+23.3 Ce qui ne doit pas varier
+
+Ne pas varier fortement :
+
+* typographies ;
+* niveau de douceur ;
+* structure générale des couvertures ;
+* logique de mockup ;
+* ton visuel ;
+* qualité perçue ;
+* lisibilité des pages internes ;
+* cohérence des pieds de page ;
+* style des composants de lien ;
+* pagination basse ;
+* présence ou absence aléatoire de “PAGE X” en haut ;
+* logique de QR Code final.
+
+⸻
+
+24. Erreurs artistiques à éviter
+
+24.1 Trop pratique
+
+Risque :
+
+La marque ressemble à une bibliothèque de fiches ou de PDF.
+
+Correction :
+
+Ajouter une dimension émotionnelle, éditoriale et chaleureuse.
+
+24.2 Trop doux
+
+Risque :
+
+La marque devient molle, floue ou peu commerciale.
+
+Correction :
+
+Renforcer les éléments de structure : fiches, cartes, étapes, checklists, promesse claire.
+
+24.3 Trop ésotérique
+
+Risque :
+
+La marque perd en crédibilité généraliste.
+
+Correction :
+
+Traiter l’ésotérisme comme introspection esthétique, non comme univers magique dominant.
+
+24.4 Trop parental
+
+Risque :
+
+La marque se ferme à d’autres univers.
+
+Correction :
+
+Utiliser la parentalité comme univers alpha, sans transformer toute la marque en marque familiale.
+
+24.5 Trop Canva
+
+Risque :
+
+La valeur perçue baisse.
+
+Correction :
+
+Travailler les compositions, les marges, la cohérence typographique, les mockups, la photographie éditoriale et la stabilité des gabarits.
+
+24.6 Trop skincare
+
+Risque :
+
+Le template Shopify garde une empreinte de son origine.
+
+Correction :
+
+Remplacer tous les placeholders, textes, images et codes produits physiques par un univers de capsules numériques.
+
+24.7 Trop répétitif
+
+Risque :
+
+La capsule semble générée mécaniquement et perd en valeur perçue.
+
+Correction :
+
+Varier les illustrations, les objets, les pictogrammes et les compositions, sans rompre l’unité de marque.
+
+24.8 Trop décoratif
+
+Risque :
+
+La mise en page paraît jolie mais empêche le texte de respirer.
+
+Correction :
+
+Supprimer les éléments non utiles, élargir les blocs de texte et réserver les décors aux marges.
+
+24.9 Trop promotionnel dans les capsules
+
+Risque :
+
+Le maillage interne ressemble à une publicité intrusive.
+
+Correction :
+
+Utiliser des cartes douces, un CTA discret et une justification utile pour le lecteur.
+
+24.10 Trop structuré
+
+Risque :
+
+La capsule ressemble à une infographie, un tableau de bord ou une notice de design system.
+
+Correction :
+
+Limiter chaque page à une structure principale et un ou deux éléments de soutien.
+Simplifier si la structure devient plus visible que le contenu.
+
+⸻
+
+25. Erreurs visuelles à éviter absolument
+
+Cette section sert de garde-fou prioritaire pour la review des capsules.
+
+Sont considérées comme erreurs critiques :
+
+* fond qui change visiblement d’une page à l’autre ;
+* format non A4 pour une page finale ;
+* mention “PAGE X” en haut ;
+* pagination basse absente, déplacée ou non conforme ;
+* sticker rond répété automatiquement sur les pages internes ;
+* QR Code rectangulaire ou sans zone carrée 1:1 ;
+* QR Code ajouté après coup dans un espace résiduel ;
+* maillage interne sans CTA ;
+* maillage interne sans symbole de lien discret ;
+* carte de maillage qui ressemble à une publicité agressive ;
+* même illustration répétée plusieurs fois dans une même capsule ;
+* même pot, plaid, personnage ou scène utilisé mécaniquement ;
+* texte compressé pour préserver une illustration ;
+* lignes coupées trop tôt sans nécessité ;
+* colonnes ou encadrés décentrés ;
+* décors trop nombreux ou trop dominants ;
+* décor utilisé pour remplir un vide ;
+* page jolie mais peu utile ;
+* page fonctionnelle mais froide ;
+* effet template Canva générique ;
+* perte de perception premium.
+
+Règle :
+
+Une page peut être belle seule et mauvaise dans la capsule.
+La cohérence globale prime sur la variation décorative.
+
+⸻
+
+26. Golden Sample
+
+26.1 Golden Sample actuel
+
+Le Golden Sample actuel des capsules est :
+
+Retrouver un peu d’espace grâce au jeu autonome
+
+Ce golden sample sert de référence prioritaire pour :
+
+* l’atmosphère générale ;
+* le niveau de douceur ;
+* le rendu premium ;
+* les décors légers ;
+* la sensation de cocon habité ;
+* les respirations visuelles ;
+* la cohérence globale d’une capsule complète.
+
+26.2 Ce qu’il faut reprendre du Golden Sample
+
+À reprendre :
+
+* fond doux et stable ;
+* sensation de calme ;
+* décors périphériques légers ;
+* objets d’ambiance discrets ;
+* espace respirant ;
+* douceur éditoriale ;
+* impression de capsule soignée ;
+* ambiance maison claire et apaisée ;
+* niveau premium non froid.
+
+26.3 Ce qu’il ne faut pas copier mécaniquement
+
+À ne pas copier mécaniquement :
+
+* les mêmes objets ;
+* le même pot de plante ;
+* le même plaid ;
+* la même scène de couverture ;
+* les mêmes illustrations répétées ;
+* les compositions exactes page par page ;
+* les erreurs ou répétitions présentes dans le brouillon.
+
+Le Golden Sample est une référence de niveau et d’atmosphère, pas une bibliothèque d’objets à reproduire.
+
+26.4 Usage du Golden Sample en review
+
+Lorsqu’une nouvelle capsule est évaluée, le Review_Agent ou l’agent chargé de la review doit se demander :
+
+* la capsule atteint-elle le même niveau de douceur ?
+* le rendu paraît-il aussi premium ?
+* les décors sont-ils aussi bien intégrés ?
+* les pages semblent-elles appartenir au même document ?
+* les objets sont-ils adaptés au thème de la nouvelle capsule ?
+* la capsule évite-t-elle la répétition mécanique ?
+* le document paraît-il soigné comme une capsule vendable ?
+
+Si la réponse est non, la capsule doit être retravaillée avant validation.
+
+⸻
+
+27. Checklist de validation courte
+
+Cette checklist doit être utilisée avant de valider une page ou une capsule.
+
+27.1 Checklist page
+
+Une page est prête à être validée si :
+
+1. le format est A4 vertical ;
+2. le fond est #FFFAF7 ;
+3. aucune mention “PAGE X” n’apparaît en haut ;
+4. la pagination basse est conforme ;
+5. le modèle adapté est respecté s’il existe ;
+6. le texte est lisible ;
+7. les lignes ne sont pas coupées trop tôt ;
+8. la hiérarchie typographique est claire ;
+9. les couleurs ont une fonction ;
+10. les décors restent périphériques ;
+11. les illustrations ne gênent pas la lecture ;
+12. les encadrés sont alignés et utiles ;
+13. la page reste cohérente avec la capsule ;
+14. le rendu est premium.
+
+27.2 Checklist capsule complète
+
+Une capsule complète est prête à être validée si :
+
+1. toutes les pages semblent appartenir au même document ;
+2. le fond reste stable ;
+3. la pagination basse est identique partout ;
+4. les pages récurrentes respectent leurs modèles ;
+5. la dernière page contient un QR Code carré 1:1 si prévu ;
+6. les pages de maillage ont cartes, CTA et symbole de lien ;
+7. aucune illustration ou scène ne se répète mécaniquement ;
+8. la banque visuelle est cohérente avec le thème ;
+9. le niveau premium reste constant ;
+10. la capsule soutient clairement le contenu ;
+11. elle évite l’effet template générique ;
+12. elle atteint le niveau du Golden Sample actuel.
+
+⸻
+
+28. Méthode de review en deux phases
+
+La review d’une capsule doit se faire en deux phases.
+
+28.1 Phase 1 : review globale de la capsule
+
+Regarder toutes les pages ensemble, idéalement en planche contact.
+
+Objectif :
+
+Vérifier la cohérence d’ensemble avant de corriger les détails.
+
+Questions à poser :
+
+* les pages appartiennent-elles au même document ?
+* le fond reste-t-il stable ?
+* la pagination est-elle identique ?
+* le rythme visuel est-il agréable ?
+* les décors sont-ils cohérents ?
+* une illustration revient-elle trop souvent ?
+* la capsule a-t-elle une vraie banque visuelle ?
+* les pages récurrentes respectent-elles les modèles ?
+* la dernière page respecte-t-elle la logique QR ?
+* le niveau premium est-il constant ?
+* la capsule se rapproche-t-elle du Golden Sample actuel ?
+
+Règle :
+
+Ne pas commencer par corriger les détails d’une page si la capsule entière manque de cohérence.
+
+28.2 Phase 2 : review page par page
+
+Après validation de la cohérence globale, analyser chaque page individuellement.
+
+Objectif :
+
+Vérifier la qualité locale.
+
+Points à vérifier :
+
+* lisibilité ;
+* alignement ;
+* marges ;
+* densité ;
+* hiérarchie ;
+* typographies ;
+* cohérence des couleurs ;
+* utilité des encadrés ;
+* fonction des décors ;
+* répétition visuelle ;
+* respect du modèle adapté ;
+* équilibre général ;
+* rendu premium.
+
+Règle :
+
+Une modification locale doit toujours être relue globalement.
+Supprimer un élément ne suffit pas si cela déséquilibre la page.
+
+28.3 Rôle du Review_Agent
+
+Le Review_Agent, lorsqu’il est mobilisé, vérifie la qualité visuelle et la cohérence globale des capsules.
+
+Il ne réécrit pas la stratégie de la capsule.
+Il ne remplace pas l’Artistic_Lead_Agent.
+Il applique les critères du Guide Artistique pour détecter les écarts.
+
+Responsabilités :
+
+* détecter les incohérences de fond, pagination, typographies et décors ;
+* repérer les répétitions d’illustrations ou d’objets ;
+* vérifier la conformité des modèles ;
+* comparer la capsule au Golden Sample ;
+* signaler les pages jolies mais peu utiles ;
+* signaler les pages fonctionnelles mais froides ;
+* proposer des corrections concrètes.
+
+Le Review_Agent doit distinguer :
+
+* problème critique ;
+* amélioration souhaitable ;
+* préférence esthétique non bloquante.
+
+⸻
+
+29. Critères de validation d’un visuel
+
+Un visuel est valide s’il répond à ces critères :
+
+1. il respecte la palette ;
+2. il est lisible ;
+3. il semble doux sans être fade ;
+4. il semble premium sans être froid ;
+5. il montre ou suggère une solution concrète ;
+6. il ne contient pas de cliché fort ;
+7. il correspond à l’univers concerné ;
+8. il reste cohérent avec la marque globale ;
+9. il peut fonctionner sur mobile ;
+10. il ne promet pas visuellement plus que la capsule ne peut tenir ;
+11. il ne répète pas inutilement une illustration déjà utilisée ;
+12. il ne réduit pas la lisibilité du texte ;
+13. il laisse respirer la page ;
+14. il peut être intégré proprement dans une capsule complète ;
+15. il ne donne pas une impression de template générique ;
+16. il conserve une perception premium.
+
+⸻
+
+30. Critères de validation d’une couverture
+
+Une couverture est valide si :
+
+1. le titre est lisible en miniature ;
+2. l’univers est identifiable ;
+3. la promesse est claire ;
+4. le design reste aéré ;
+5. la couleur d’univers est utilisée avec mesure ;
+6. le rendu semble propriétaire ;
+7. le style ne ressemble pas à un template générique ;
+8. la capsule paraît concrète et utile ;
+9. le visuel donne envie d’ouvrir ;
+10. elle s’intègre proprement dans une grille Shopify ;
+11. elle contient une hiérarchie claire ;
+12. elle donne une perception de valeur élevée ;
+13. elle respecte le Modele_Couverture_Cocon.pdf si celui-ci s’applique.
+
+⸻
+
+31. Critères de validation d’une page interne
+
+Une page interne est valide si :
+
+1. le texte est prioritaire et lisible ;
+2. la hiérarchie est claire ;
+3. les marges respirent sans gaspiller l’espace utile ;
+4. les sauts à la ligne ne sont pas trop précoces ;
+5. les décors ne gênent pas la lecture ;
+6. l’illustration, si présente, sert la page ;
+7. la page ne répète pas une illustration déjà trop utilisée ;
+8. les pictogrammes restent cohérents ;
+9. les encadrés structurent réellement le contenu ;
+10. le bas de page reste sobre et lisible ;
+11. les liens, s’il y en a, sont visibles sans être agressifs ;
+12. le style reste cohérent avec Le Cocon des Solutions ;
+13. la pagination basse est bien centrée ;
+14. aucune mention “PAGE X” n’apparaît en haut ;
+15. la page utilise une seule structure principale maximum ;
+16. elle évite l’effet tableau de bord ;
+17. elle garde une perception premium.
+
+⸻
+
+32. Critères de validation d’une page de maillage
+
+Une page de maillage est valide si :
+
+1. les capsules recommandées sont pertinentes ;
+2. chaque capsule est présentée dans une carte douce ;
+3. le titre de chaque capsule est lisible ;
+4. le bénéfice est court et clair ;
+5. le CTA est discret mais identifiable ;
+6. un symbole de lien ou une flèche indique l’action ;
+7. la carte peut devenir cliquable dans le PDF final ;
+8. l’ensemble ne ressemble pas à une publicité agressive ;
+9. la page reste utile même si le lecteur ne clique pas ;
+10. le design respecte la direction artistique ;
+11. elle respecte le Modele_Page_Maillage_Interne_Cocon.pdf ;
+12. chaque carte contient un CTA explicite ;
+13. chaque carte contient un symbole de lien discret.
+
+⸻
+
+33. Critères de validation d’une dernière page
+
+Une dernière page est valide si :
+
+1. elle clôture la capsule proprement ;
+2. elle donne un repère final ou une fiche utile ;
+3. elle inclut un QR Code discret si le modèle l’exige ;
+4. elle peut inclure un lien vers la boutique ;
+5. elle affiche clairement le site officiel ;
+6. elle utilise la phrase de marque avec sobriété ;
+7. le QR Code ne domine pas la page ;
+8. le pied de page reste lisible ;
+9. la page donne envie de continuer dans le cocon ;
+10. elle ne transforme pas la fin de capsule en page publicitaire agressive ;
+11. le QR Code est dans un encadré carré ;
+12. l’encadré QR Code respecte un ratio 1:1 ;
+13. le site est centré ;
+14. la composition reste calme et finale ;
+15. elle respecte le Modele_Page_Finale_QR_Cocon.pdf.
+
+Pied de page recommandé :
+
+lecocondessolutions.fr
+Des solutions douces pour avancer plus clairement.
+
+⸻
+
+34. Critères de validation des gabarits officiels
+
+Un gabarit officiel est valide si :
+
+1. il réduit l’improvisation sans figer inutilement la page ;
+2. il clarifie les composants fixes ;
+3. il ne crée pas de surcharge visuelle ;
+4. il respecte les couleurs officielles ;
+5. il respecte la pagination basse ;
+6. il interdit la mention “PAGE X” en haut ;
+7. il préserve une perception premium ;
+8. il garde assez de flexibilité pour adapter la composition au contenu ;
+9. il ne transforme pas chaque page en infographie ;
+10. il peut être réutilisé par les agents sans ambiguïté.
+
+Gabarits et références officiels à maintenir :
+
+* Modele_Couverture_Cocon.pdf ;
+* Modeles_pages_2_et_3.pdf ;
+* Modele_Page_Maillage_Interne_Cocon.pdf ;
+* Modele_Page_Finale_QR_Cocon.pdf ;
+* Modele_plan_7_jours.pdf ;
+* Modele_personnages.pdf ;
+* principe “Banque visuelle des capsules”.
+
+Règle :
+
+Il n’existe pas de Modele_Page_Interne_Cocon général à appliquer à toutes les pages internes.
+
+Les pages de contenu doivent être composées selon leur fonction, tout en respectant les repères fixes de gamme.
+
+Il n’existe pas non plus de Bibliotheque_Illustrations_Recurrentes_Cocon rigide.
+
+Chaque capsule développe sa propre mini-banque visuelle selon son thème.
+
+⸻
+
+35. Responsabilité de l’Artistic_Lead_Agent
+
+Artistic_Lead_Agent est responsable de :
+
+* maintenir ce document ;
+* garantir la cohérence visuelle ;
+* définir les prompts d’image ;
+* cadrer les couvertures ;
+* cadrer les pages internes ;
+* cadrer les mockups ;
+* cadrer les gabarits officiels ;
+* superviser le rendu Shopify ;
+* vérifier l’alignement visuel des capsules ;
+* signaler les incohérences entre message et image ;
+* préserver l’image de marque globale ;
+* préserver la perception premium ;
+* contrôler les répétitions d’illustrations ;
+* vérifier que les pages ne deviennent ni trop décoratives, ni trop structurées ;
+* tenir à jour les Golden Samples ;
+* cadrer la méthode de review visuelle.
+
+Artistic_Lead_Agent ne décide pas seul :
+
+* des promesses commerciales ;
+* des douleurs client ;
+* du pricing ;
+* de la stratégie Meta Ads ;
+* des priorités de production ;
+* de la hiérarchie documentaire.
+
+En cas de conflit entre direction artistique et copywriting :
+
+* Artistic_Lead_Agent expose l’impact de marque ;
+* Copywriting_Agent expose l’intention textuelle ;
+* Chief_Structuration_Agent identifie l’impact documentaire ;
+* Captain arbitre si nécessaire.
+
+⸻
+
+36. Synthèse artistique
+
+Le Cocon des Solutions doit être perçu comme une marque de capsules numériques douce, claire, chaleureuse, premium et structurée.
+
+Son univers visuel doit transmettre :
+
+* un refuge ;
+* une table lumineuse ;
+* des cartes de solutions ;
+* des outils simples ;
+* une maison calme ;
+* une méthode douce ;
+* une clarté accessible ;
+* une valeur perçue élevée ;
+* un objet numérique soigné.
+
+La direction artistique doit éviter le décoratif pur.
+
+Chaque choix visuel doit répondre à une question :
+
+est-ce que cela rend la solution plus claire, plus désirable, plus crédible ou plus rassurante ?
+
+Si la réponse est non, l’élément est probablement décoratif.
+
+Règle finale pour les capsules :
+
+La page doit d’abord servir le contenu.
+
+L’image, le décor, les icônes, les liens et les QR Codes ne sont utiles que s’ils renforcent la clarté, l’usage ou la continuité du parcours.
+
+La marque doit donner envie d’ouvrir une capsule comme on ouvre une petite boîte de clarté.
+
+⸻
+
+Document Metadata & Changelog
+
+Changelog
+
+* 1.1.2 (2026-05-16, Artistic_Lead_Agent): Ajout du Golden Sample actuel “Retrouver un peu d’espace grâce au jeu autonome”, ajout de la checklist de validation courte, ajout des erreurs visuelles à éviter absolument, ajout de la méthode de review en deux phases et formalisation du rôle opérationnel du Review_Agent pour la review visuelle des capsules. Renumérotation des sections de validation.
+* 1.1.1 (2026-05-16, Artistic_Lead_Agent): Mise à jour des modèles officiels avec référencement exact de Modele_Couverture_Cocon.pdf, Modeles_pages_2_et_3.pdf, Modele_Page_Maillage_Interne_Cocon.pdf, Modele_Page_Finale_QR_Cocon.pdf, Modele_plan_7_jours.pdf et Modele_personnages.pdf ; suppression de l’idée d’un Modele_Page_Interne_Cocon général ; remplacement de Bibliotheque_Illustrations_Recurrentes_Cocon par le principe “Banque visuelle des capsules”, chaque capsule devant développer sa propre mini-banque visuelle selon son thème.
+* 1.1.0 (2026-05-16, Artistic_Lead_Agent): Mise à jour majeure du Guide artistique avec intégration du gabarit canonique des capsules, précision du fond officiel #FFFAF7, définition de la pagination basse, suppression de la mention “PAGE X” en haut des pages, clarification des couleurs capsules, règles anti-surcharge, distinction entre atmosphère décorative et structure fonctionnelle, intégration du critère premium, définition initiale des gabarits officiels, renforcement des règles de maillage interne, QR Code, typographies, citations et répétitions visuelles.
+* 1.0.0 (2026-05-11, Artistic_Lead_Agent): Création initiale du Guide artistique du projet Le Cocon des Solutions, avec définition de la direction artistique, palette, typographies, style photographique, génération d’images, couvertures de capsules, mockups, codes visuels par univers, règles Shopify et responsabilités de l’Artistic_Lead_Agent.
+
+Breaking Changes
+
+* Les pages internes ne doivent plus afficher “PAGE X” en haut.
+* La numérotation officielle des pages internes se fait uniquement en bas, avec pastille centrée.
+* Le footer avec site et phrase de marque est réservé à la dernière page, sauf décision explicite contraire.
+* Le QR Code final doit être dans un encadré carré 1:1.
+* Les pages internes ne doivent pas cumuler plusieurs dispositifs de structure forts.
+* Les capsules doivent être relues en deux phases : review globale puis review page par page.
+* Le Golden Sample actuel est “Retrouver un peu d’espace grâce au jeu autonome”.
+
